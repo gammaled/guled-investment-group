@@ -32,9 +32,8 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * **Learn and Understand** what an investment fund is and how it works.
 * **Find out** whether investing into an investment is viable and beneficial to user. 
 * **Contact the company** for **more information** and request to be contacted, by providing contact details, to **learn more** about:
-    * How **investment funds** work 
+    * How **investment funds** work. 
     * The company's **profit sharing** and **commission structure**.
-    * 
 * **Learn more** about the **investment managers**: their investing background and credentials.
-* **Be reassured** that the investment fund and company, including investment managers, are accredited and licensed.
+* **Be reassured** that the investment fund and company, that includes investment managers, are appropriately  **accredited** and **licensed**.
  
