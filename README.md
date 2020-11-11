@@ -37,3 +37,10 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * **Learn more** about the **investment managers**: their investing background and credentials.
 * **Be reassured** that the investment fund and company, that includes investment managers, are appropriately  **accredited** and **licensed**.
  
+### User Stories ###
+
+* As a **user**, I want an **informative** and **well-structured website** so I will be **properly informed without confusion**.
+* As a **user**, I want to **understand** what an **investment fund** in a **language I can understand** without **too much financial jargon**.
+* As a **user**, I want to be able to **easily contact the customer service** so I can ask **questions for clarification and understand better.** 
+* As a **user**, I want to be **reassured** that the company and its investment managers are **well qualified** and **credible** in **investment management**.
+* As a **user**, I want an **easily navigable website** that is **straight to the point** and leads me directly to the **relevant information**, avoiding **unnecessarily tedious design obstacles**.
