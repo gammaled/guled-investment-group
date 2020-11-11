@@ -55,9 +55,13 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 **Requirements**
 * **Navigate** the website using the navbar that scrolls to the requested section.
 * The **website** should be a **one-page** website to keep users engaged. 
-* A **full-functioning contact form** that allows user to input **contact details and enquiries**.
+* A **full functioning contact form** that allows user to input **contact details and enquiries**.
+* A **fully functioning learn more** button in the header of the website.
 
 **Expectations**
 * **Visually appealing website** kept **simple and easy to use** and **without** any complicated features.
 * **Built** to look **professional** and with **high-quality design** should **reflect the service provided**.
 * **Provide** the **most relevant information** that is **most helpful** to the user in order to **keep things short**. 
+
+### Design Choices ###
+
