@@ -49,3 +49,15 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * As a **site owner**, I want to **provide the correct information** on **investment funds** and **effectively define in simple terms** what it is. This is that **user** is **well-informed** before **making a decision** to **invest**. 
 * As a **site owner**, I want to **market** to **users** about the **investment fund** we manage and **show what makes it different**, in terms of **how we manage it** and **commission fee structure**.
 * As a **site owner**, I want to make it as **easy as possible** for **users** to **get in touch** for more information to understand our services better.  
+
+### User Requirements and Expectations ###
+
+**Requirements**
+* **Navigate** the website using the navbar that scrolls to the requested section.
+* The **website** should be a **one-page** website to keep users engaged. 
+* A **full-functioning contact form** that allows user to input **contact details and enquiries**.
+
+**Expectations**
+* **Visually appealing website** kept **simple and easy to use** and **without** any complicated features.
+* **Built** to look **professional** and with **high-quality design** should **reflect the service provided**.
+* **Provide** the **most relevant information** that is **most helpful** to the user in order to **keep things short**. 
