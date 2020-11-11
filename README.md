@@ -47,3 +47,5 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 
 ### Site Owner Goals ###
 * As a **site owner**, I want to **provide the correct information** on **investment funds** and **effectively define in simple terms** what it is. This is that **user** is **well-informed** before **making a decision** to **invest**. 
+* As a **site owner**, I want to **market** to **users** about the **investment fund** we manage and **show what makes it different**, in terms of **how we manage it** and **commission fee structure**.
+* As a **site owner**, I want to make it as **easy as possible** for **users** to **get in touch** for more information to understand our services better.  
