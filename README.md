@@ -44,3 +44,6 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * As a **user**, I want to be able to **easily contact the customer service** so I can ask **questions for clarification and understand better.** 
 * As a **user**, I want to be **reassured** that the company and its investment managers are **well qualified** and **credible** in **investment management**.
 * As a **user**, I want an **easily navigable website** that is **straight to the point** and leads me directly to the **relevant information**, avoiding **unnecessarily tedious design obstacles**.
+
+### Site Owner Goals ###
+* As a **site owner**, I want to **provide the correct information** on **investment funds** and **effectively define in simple terms** what it is. This is that **user** is **well-informed** before **making a decision** to **invest**. 
