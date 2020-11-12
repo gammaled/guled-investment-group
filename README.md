@@ -92,5 +92,6 @@ What the colours are used for:
 
 ## Wireframing ##
 
-## References ##
+For wireframing, I used [Balsamiq](https://balsamiq.com/). I used it to create simple wireframes showing the basic structure on which I built the website on. 
+
 
