@@ -64,7 +64,7 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * **Provide** the **most relevant information** that is **most helpful** to the user in order to **keep things short**. 
 
 ### Design Choices ###
-
+---
 When designing the website, I used the wine delivery bootstrap website from 
 [Code Institute's](https://codeinstitute.net/) "Bootstrapping your next big idea" lesson 
 in the User-centric Frontend Development module as a template on which I completely customised. 
@@ -91,3 +91,6 @@ What the colours are used for:
 ![Color Scheme](wireframes/colour-scheme.png)
 
 ## Wireframing ##
+
+## References ##
+
