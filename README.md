@@ -65,10 +65,17 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 
 ### Design Choices ###
 
-When designing the website, I used the wine delivery bootstrap website from [Code Institute's](https://codeinstitute.net/) "Bootstrapping your next big idea" lesson in the User-centric Frontend Development module as a template on which I completely customised. 
+When designing the website, I used the wine delivery bootstrap website from 
+[Code Institute's](https://codeinstitute.net/) "Bootstrapping your next big idea" lesson 
+in the User-centric Frontend Development module as a template on which I completely customised. 
 
 **Fonts**
 
 I tried to look for very simple fonts that were very easy to read and looked professional. 
-I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) for text. 
+I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and 
+[Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) for text. 
 
+**Colours**
+
+I used the [Coolors](https://coolors.co/0a0a0a-575a5e-c40b08-246b94-f4f7f5) colour generator 
+to find the colour scheme below that suits best for this project.
