@@ -79,3 +79,5 @@ I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and
 
 I used the [Coolors](https://coolors.co/0a0a0a-575a5e-c40b08-246b94-f4f7f5) colour generator 
 to find the colour scheme below that suited best for the project. 
+
+![Color Scheme](wireframes/colour-scheme.png)
