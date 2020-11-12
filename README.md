@@ -80,4 +80,14 @@ I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and
 I used the [Coolors](https://coolors.co/0a0a0a-575a5e-c40b08-246b94-f4f7f5) colour generator 
 to find the colour scheme below that suited best for the project. 
 
+What the colours are used for:
+
+* Rich Black #0A0A0A: for some headers, some body text, and navbar; 
+* Davys Grey #575A5E: for other backgrounds;
+* International Orange Engineering #C40B08: for contact submit button, some body text;
+* Sapphire Blue #246B94: for "learn more" button and some headers;
+* Cultured #F4F7F5: for most body backgrounds, some body text and navbar font colour;
+
 ![Color Scheme](wireframes/colour-scheme.png)
+
+## Wireframing ##
