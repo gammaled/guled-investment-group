@@ -80,11 +80,12 @@ I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and
 I used the [Coolors](https://coolors.co/0a0a0a-575a5e-c40b08-246b94-f4f7f5) colour generator 
 to find the colour scheme that suited best for the project. 
 
-What the colours are used for:
+The **purpose** for each colour:
 
 * **Rich Black** (#0A0A0A): for some headers, some body text, and navbar; 
-* **Davys Grey** (#575A5E): for other backgrounds;
-* **International Orange Engineering** (#C40B08): for contact submit button, some body text; this colour was used to bring attention to important buttons and important information. 
+* **Davys Grey** (#575A5E): for other backgrounds; 
+* **International Orange Engineering** (#C40B08): for contact submit button, some body text; 
+this colour was used to bring attention to important buttons and important information. 
 * **Sapphire Blue** (#246B94): for "learn more" button and some headers;
 * **Cultured** (#F4F7F5): for most body backgrounds, some body text and navbar font colour;
 
@@ -102,3 +103,9 @@ View wireframes for each device here:
 * [Tablet](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20tablet.pdf)
 * [Mobile](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20mobile.pdf)
 
+
+
+## References ##
+---
+<a id="1" target="_blank">[1]</a>
+Cherry, K. [Color Psychology: Does It Affect How You Feel?](https://www.verywellmind.com/color-psychology-2795824). VeryWellMind.com. (2020)
