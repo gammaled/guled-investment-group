@@ -107,5 +107,3 @@ View wireframes for each device here:
 
 ## References ##
 ---
-<a id="1" target="_blank">[1]</a>
-Cherry, K. [Color Psychology: Does It Affect How You Feel?](https://www.verywellmind.com/color-psychology-2795824). VeryWellMind.com. (2020)
