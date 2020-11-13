@@ -94,4 +94,8 @@ What the colours are used for:
 
 For wireframing, I used [Balsamiq](https://balsamiq.com/). I used it to create simple wireframes showing the basic structure on which I built the website on. 
 
+View wireframes here:
 
+* [Desktop](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20desktop.pdf)
+* [Tablet](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20tablet.pdf)
+* [Mobile](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20mobile.pdf)
