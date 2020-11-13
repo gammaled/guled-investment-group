@@ -84,7 +84,7 @@ What the colours are used for:
 
 * **Rich Black** (#0A0A0A): for some headers, some body text, and navbar; 
 * **Davys Grey** (#575A5E): for other backgrounds;
-* **International Orange Engineering** (#C40B08): for contact submit button, some body text;
+* **International Orange Engineering** (#C40B08): for contact submit button, some body text; this colour was used to bring attention to important buttons and important information. 
 * **Sapphire Blue** (#246B94): for "learn more" button and some headers;
 * **Cultured** (#F4F7F5): for most body backgrounds, some body text and navbar font colour;
 
