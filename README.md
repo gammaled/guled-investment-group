@@ -82,17 +82,19 @@ to find the colour scheme below that suited best for the project.
 
 What the colours are used for:
 
-* Rich Black #0A0A0A: for some headers, some body text, and navbar; 
-* Davys Grey #575A5E: for other backgrounds;
-* International Orange Engineering #C40B08: for contact submit button, some body text;
-* Sapphire Blue #246B94: for "learn more" button and some headers;
-* Cultured #F4F7F5: for most body backgrounds, some body text and navbar font colour;
+* **Rich Black** (#0A0A0A): for some headers, some body text, and navbar; 
+* **Davys Grey** (#575A5E): for other backgrounds;
+* **International Orange Engineering** (#C40B08): for contact submit button, some body text;
+* **Sapphire Blue** (#246B94): for "learn more" button and some headers;
+* **Cultured** (#F4F7F5): for most body backgrounds, some body text and navbar font colour;
 
 ![Color Scheme](wireframes/colour-scheme.png)
 
 ## Wireframing ##
 
-For wireframing, I used [Balsamiq](https://balsamiq.com/). I used it to create simple wireframes showing the basic structure on which I built the website on. 
+For **wireframing**, I used [Balsamiq](https://balsamiq.com/). I used it to create **simple** wireframes 
+showing the basic structure on which I built the website on. Some features maybe removed or added during 
+development. 
 
 View wireframes here:
 
