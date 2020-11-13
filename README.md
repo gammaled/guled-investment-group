@@ -78,7 +78,7 @@ I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and
 **Colours**
 
 I used the [Coolors](https://coolors.co/0a0a0a-575a5e-c40b08-246b94-f4f7f5) colour generator 
-to find the colour scheme below that suited best for the project. 
+to find the colour scheme that suited best for the project. 
 
 What the colours are used for:
 
@@ -96,7 +96,7 @@ For **wireframing**, I used [Balsamiq](https://balsamiq.com/). I used it to crea
 showing the basic structure on which I built the website on. Some features maybe removed or added during 
 development. 
 
-View wireframes here:
+View wireframes for each device here:
 
 * [Desktop](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20desktop.pdf)
 * [Tablet](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20tablet.pdf)
