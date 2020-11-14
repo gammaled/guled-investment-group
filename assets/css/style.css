@@ -4,4 +4,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* Containers */
+/* navbar */
+
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .25);
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
