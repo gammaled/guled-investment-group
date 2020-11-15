@@ -20,6 +20,8 @@ body {
 .navbar .navbar-brand {
     font-weight: bold;
     font-size: 150%;
+    color: #F4F7F5;
+    text-decoration: none;
 }
 
 .navbar .navbar-nav{
@@ -28,11 +30,13 @@ body {
 
 .navbar .navbar-nav a {
     font-weight: bold;
+    padding-left: 20px;
+    color: #F4F7F5;
+    text-decoration: none;
 }
 
 .navbar .navbar-nav li {
-    padding-left: 20px;
+    list-style: none;
 }
-
 /* Jumbotron */
 
