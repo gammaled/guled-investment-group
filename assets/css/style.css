@@ -27,10 +27,12 @@ body {
 
 .navbar .navbar-nav{
     float: right;
+    padding-top: 15px;
 }
 
 .navbar .navbar-nav li{
     padding-bottom: 15px;
+    list-style: none;
 }
 .navbar .navbar-nav a {
     font-weight: bold;
@@ -40,8 +42,6 @@ body {
     text-decoration: none;
 }
 
-.navbar .navbar-nav li {
-    list-style: none;
-}
+
 /* Jumbotron */
 
