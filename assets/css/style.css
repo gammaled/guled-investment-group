@@ -49,10 +49,15 @@ body {
     background-color: transparent;
 }
 
+.jumbotron div h1 {
+    color: #F4F7F5;
+}
+
+
 .call-to-action {
     height: 100vh;
 
-    background: url('../images/whiskey-background.jpg') no-repeat bottom right fixed;
+    background: url('../assets/videos/investing.mp4') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -64,3 +69,13 @@ body {
 
     position: relative;
 }
+
+#video-background { 
+      position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        overflow: hidden;
+        z-index: -100;
+        width:100%;
