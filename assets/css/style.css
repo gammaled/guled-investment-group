@@ -41,10 +41,26 @@ body {
     padding-left: 20px;
     color: #F4F7F5;
     text-decoration: none;
-    float: right;
 }
-
-
 
 /* Jumbotron */
 
+.jumbotron {
+    background-color: transparent;
+}
+
+.call-to-action {
+    height: 100vh;
+
+    background: url('../images/whiskey-background.jpg') no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
