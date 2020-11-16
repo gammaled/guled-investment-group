@@ -9,7 +9,7 @@ body {
 .navbar {
     margin-bottom: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, .25);
+    background-color: #0A0A0A99;
     border: 0;
     border-radius: 0;
 }
@@ -19,6 +19,7 @@ body {
     font-weight: bold;
     font-size: 150%;
     color: #F4F7F5;
+    
 }
 
 .navbar .navbar-nav{
@@ -41,6 +42,7 @@ body {
     padding-left: 20px;
     color: #F4F7F5;
     text-decoration: none;
+
 }
 
 /* Jumbotron */
@@ -53,11 +55,13 @@ body {
     color: #F4F7F5;
 }
 
+.jumbotron div p {
+    color: #F4F7F5;
+}
 
 .call-to-action {
     height: 100vh;
 
-    background: url('../assets/videos/investing.mp4') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
