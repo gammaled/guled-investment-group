@@ -51,14 +51,16 @@ body {
 
 .jumbotron div h1 {
     color: #F4F7F5;
+    justify-content: center;
 }
 
 .jumbotron div p {
     color: #F4F7F5;
+    justify-content: center;
 }
 
 .call-to-action {
-    height: 100vh;
+    height: 80vh;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -68,17 +70,18 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 
     position: relative;
 }
 
 #video-background { 
-      position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        overflow: hidden;
-        z-index: -100;
-        width:100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    width:100%;
 }
