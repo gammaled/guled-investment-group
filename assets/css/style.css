@@ -35,6 +35,12 @@ body {
     list-style: none;
 }
 
+.navbar .navbar-nav li .btn{
+    color: #0A0A0A;
+    background-color: #F4F7F5;
+    border-color: #F4F7F5;
+}
+
 .navbar .navbar-nav a {
     font-weight: bold;
     font-size: 100%;
