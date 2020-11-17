@@ -41,6 +41,12 @@ body {
     border-color: #F4F7F5;
 }
 
+.navbar .navbar-nav li .btn:hover {
+    color: #F4F7F5;
+    background-color: #0A0A0A;
+    border-color: #F4F7F5;
+}    
+
 .navbar .navbar-nav a {
     font-weight: bold;
     font-size: 100%;
