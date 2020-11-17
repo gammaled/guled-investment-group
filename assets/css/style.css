@@ -14,7 +14,6 @@ body {
     border-radius: 0;
 }
 
-
 .navbar .navbar-brand {
     font-weight: bold;
     font-size: 150%;
@@ -42,7 +41,6 @@ body {
     padding-left: 20px;
     color: #F4F7F5;
     text-decoration: none;
-
 }
 
 /* Jumbotron */
@@ -83,3 +81,4 @@ body {
         overflow: hidden;
         z-index: -100;
         width:100%;
+}
