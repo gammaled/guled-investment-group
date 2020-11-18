@@ -58,16 +58,16 @@ body {
 /* Jumbotron */
 
 .jumbotron {
-    background-color: transparent;
+    background-color: #F4F7F5;
 }
 
 .jumbotron div h1 {
-    color: #F4F7F5;
+    color: #0A0A0A;
     justify-content: center;
 }
 
 .jumbotron div p {
-    color: #F4F7F5;
+    color: #0A0A0A;
     justify-content: center;
 }
 
