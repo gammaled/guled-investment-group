@@ -18,12 +18,19 @@ body {
     font-weight: bold;
     font-size: 150%;
     color: #F4F7F5;
+    margin-left: auto;
+    padding-left: 1px;
     
 }
 
+#nav-button .navbar-toggler-icon {
+    size: 50%;
+    border-style: none;
+}
+
 .navbar .navbar-nav{
-    float: right;
     padding-top: 15px;
+    margin-left: auto;
 }
 
 .navbar .navbar-nav ul{
