@@ -58,7 +58,7 @@ body {
 /* Jumbotron */
 
 .jumbotron {
-    background-color: #F4F7F5;
+    background-color: transparent;
 }
 
 .jumbotron div h1 {
