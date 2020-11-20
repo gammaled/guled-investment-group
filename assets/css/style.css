@@ -68,12 +68,7 @@ body {
     background-color: transparent;
 }
 
-.jumbotron div h1 {
-    color: #0A0A0A;
-    justify-content: center;
-}
-
-.jumbotron div p {
+.jumbotron div h1, .jumbotron div p {
     color: #0A0A0A;
     justify-content: center;
 }
