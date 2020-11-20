@@ -30,7 +30,6 @@ body {
 }
 
 .navbar .navbar-nav{
-    /*padding-top: 15px;*/
     margin-left: auto;
 }
 
@@ -62,6 +61,9 @@ body {
     text-decoration: none;
 }
 
+button {
+    margin-left: auto;
+}
 /* Jumbotron */
 
 .jumbotron {
