@@ -30,7 +30,7 @@ body {
 }
 
 .navbar .navbar-nav{
-    padding-top: 15px;
+    /*padding-top: 15px;*/
     margin-left: auto;
 }
 
@@ -39,7 +39,6 @@ body {
 }
 
 .navbar .navbar-nav li{
-    padding-bottom: 15px;
     list-style: none;
 }
 
@@ -95,23 +94,6 @@ body {
     position: relative;
 }
 
-.video-container video{
-    height: 100%;
-    background-attachment: fixed;
-    background-size: cover;
-    position: absolute;
-}
 
-#video-background { 
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    overflow: hidden;
-    z-index: -100;
-    width:100%;
-    size: cover;
-}
 
 
