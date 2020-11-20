@@ -46,6 +46,7 @@ body {
     color: #0A0A0A;
     background-color: #F4F7F5;
     border-color: #F4F7F5;
+    height: 2.5rem;
 }
 
 .navbar .navbar-nav li .btn:hover {
@@ -77,19 +78,20 @@ button {
 }
 
 .call-to-action {
-    height: 400px;
+    height: 100vh;
 
+    background: url('assets/images/investment-numbers.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     
-    display: flex;
+    
     align-items: center;
     justify-content: center;
-    text-align: center;
 
     position: relative;
+    z-index: -100;
 }
 
 
