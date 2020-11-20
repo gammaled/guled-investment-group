@@ -13,6 +13,7 @@ body {
     border: 0;
     border-radius: 0;
     z-index: 100;
+    padding: 0;
 }
 
 .navbar .navbar-brand {
