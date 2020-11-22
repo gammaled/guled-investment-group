@@ -37,19 +37,6 @@ body {
 
 .navbar .navbar-nav li{
     list-style: none;
-}
-
-.navbar .navbar-nav li .btn{
-    color: #0A0A0A;
-    background-color: #F4F7F5;
-    border-color: #F4F7F5;
-    height: 2.5rem;
-}
-
-.navbar .navbar-nav li .btn:hover {
-    color: #F4F7F5;
-    background-color: #0A0A0A99;
-    border-color: #F4F7F5;
 }    
 
 .navbar .navbar-nav a {
