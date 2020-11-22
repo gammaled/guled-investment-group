@@ -50,32 +50,20 @@ body {
     border-color: #F4F7F5;
 }
 
-/* Jumbotron */
-
-.jumbotron {
-    background-color: #575A5E;
-}
-
-.jumbotron div h1, .jumbotron div p {
-    color: #0A0A0A;
-    justify-content: center;
-}
+/* call-to-action */
 
 .call-to-action {
     height: 100vh;
-
-    background: url('assets/images/investment-numbers.jpg') no-repeat bottom right fixed;
+    background-image:url('../images/investment-numbers.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
-    
+
     align-items: center;
     justify-content: center;
 
     position: relative;
-    z-index: -100;
 }
 
 
