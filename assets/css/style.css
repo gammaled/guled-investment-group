@@ -20,7 +20,6 @@ body {
     font-weight: 500;
     font-size: 150%;
     color: #F4F7F5;
-    margin-left: auto;
     padding-left: 1px;
     
 }
@@ -31,7 +30,8 @@ body {
 }
 
 .navbar .navbar-nav{
-    margin-left: auto;
+    margin-right: 0;
+    float: right;
 }
 
 
