@@ -46,22 +46,22 @@ body {
     text-decoration: none;
 }
 
-#contact-us {
-    border-color: #F4F7F5;
-}
-
 /* call-to-action */
 
-.call-to-action {
+.callout-container {
     height: 100vh;
-    background-image:url('../images/investment-numbers.jpg') no-repeat bottom right fixed;
+    color: #F4F7F5;
+    background-color: #246B94;
+    background-image: url('assets/images/invest-poster.png') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 
+    text-align: center;
     align-items: center;
     justify-content: center;
+
 
     position: relative;
 }
