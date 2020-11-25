@@ -24,9 +24,10 @@ body {
 }
 
 #nav-button {
-    size: 0.1rem !important;
+    size: 0.5rem;
     border-style: none;
     border-width: 0;
+    color: #F4F7F5;
 }
 
 .navbar .navbar-nav{
