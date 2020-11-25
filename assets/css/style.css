@@ -74,8 +74,17 @@ body {
     border-color: #C40B08;
 }
 
-.navbar-toggler-icon {
-    width: 1rem;
+/* offer */
+
+.offer {
+
 }
 
+.offer h2 {
+    text-align: center;
+}
 
+.offer-list ul {
+    display: inline-block;
+    width: 100%;
+}
