@@ -74,5 +74,8 @@ body {
     border-color: #C40B08;
 }
 
+.navbar-toggler-icon {
+    width: 1rem;
+}
 
 
