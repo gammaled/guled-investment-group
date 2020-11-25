@@ -77,14 +77,13 @@ body {
 /* offer */
 
 .offer {
-
-}
-
-.offer h2 {
-    text-align: center;
-}
-
-.offer-list ul {
     display: inline-block;
-    width: 100%;
+    width: 70%;
+    
 }
+
+.offer-heading {
+    justify-content: center;
+}
+
+    
