@@ -76,14 +76,19 @@ body {
 
 /* offer */
 
+.offer-container {
+    color: #F4F7F5;
+    background-color: #246B94;
+}
+
 .offer {
     display: inline-block;
-    width: 70%;
-    
+    text-align: center;
 }
 
 .offer-heading {
-    justify-content: center;
+    text-align: center;
 }
+
 
     
