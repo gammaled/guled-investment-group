@@ -23,9 +23,10 @@ body {
     
 }
 
-#nav-button .navbar-toggler-icon {
-    size: 50%;
+#nav-button {
+    size: 0.1rem !important;
     border-style: none;
+    border-width: 0;
 }
 
 .navbar .navbar-nav{
