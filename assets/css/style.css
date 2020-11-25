@@ -50,9 +50,9 @@ body {
 
 .callout-container {
     height: 100vh;
-    color: #F4F7F5;
-    background-color: #246B94;
-    background-image: url('assets/images/invest-poster.png') no-repeat bottom right fixed;
+    color: #0A0A0A;
+    background-color: #F4F7F5;
+    background-image: url('assets/images/invest-poster.png') no-repeat bottom right fixed !important;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -66,6 +66,11 @@ body {
     position: relative;
 }
 
+.callout-container .btn {
+    color: #F4F7F5;
+    background-color: #C40B08;
+    border-color: #C40B08;
+}
 
 
 
