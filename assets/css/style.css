@@ -110,4 +110,16 @@ body {
 .about-us-container {
     background-color: #575A5E;
     color: #F4F7F5;
+    text-align: center;
+}
+
+.about-us-heading {
+    text-align: center;
+    padding-top: 3.2vh;
+    padding-bottom: 1.6vh;
+}
+
+.about-us-list {
+    padding-top: 3.2vh;
+    padding-bottom: 1.6vh;
 }
