@@ -105,3 +105,9 @@ body {
     padding-bottom: 1.6vh;
 }
 
+/* About us */
+
+.about-us-container {
+    background-color: #575A5E;
+    color: #F4F7F5;
+}
