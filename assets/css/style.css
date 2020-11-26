@@ -54,7 +54,7 @@ body {
     height: 100vh;
     color: #0A0A0A;
     background-color: #F4F7F5;
-    background: url('../images/invest-poster.png') no-repeat bottom right fixed;
+    background: url('../images/invest-poster.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
