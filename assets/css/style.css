@@ -101,10 +101,14 @@ body {
 
 .offer-heading {
     text-align: center;
-    padding-top: 3.2vh;
-    padding-bottom: 1.6vh;
+    padding-top: 12.8vh;
+    padding-bottom: 3.2vh;
 }
 
+.offer-list {
+    padding-top: 3.2vh;
+    padding-bottom: 3.2vh;
+}
 /* About us */
 
 .about-us-container {
@@ -115,11 +119,11 @@ body {
 
 .about-us-heading {
     text-align: center;
-    padding-top: 3.2vh;
-    padding-bottom: 1.6vh;
+    padding-top: 12.8vh;
+    padding-bottom: 3.2vh;
 }
 
 .about-us-list {
     padding-top: 3.2vh;
-    padding-bottom: 1.6vh;
+    padding-bottom: 3.2vh;
 }
