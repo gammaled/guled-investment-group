@@ -74,6 +74,9 @@ body {
     border-color: #C40B08;
 }
 
+#fineprint {
+    color: #575A5E;
+}
 /* offer */
 
 .offer-container {
@@ -90,5 +93,3 @@ body {
     text-align: center;
 }
 
-
-    
