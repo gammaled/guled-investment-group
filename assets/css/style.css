@@ -92,6 +92,7 @@ body {
 .offer-container {
     color: #0A0A0A;
     background-color: #F4F7F5;
+    padding-bottom: 16vh;
 }
 
 .offer {
@@ -115,6 +116,7 @@ body {
     background-color: #575A5E;
     color: #F4F7F5;
     text-align: center;
+    padding-bottom: 16vh;
 }
 
 .about-us-heading {
