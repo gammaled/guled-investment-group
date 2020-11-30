@@ -147,3 +147,7 @@ body {
 #copyright {
     text-align: center;
 }
+
+.telephones p {
+    line-height: 1vh;
+}
