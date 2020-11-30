@@ -90,7 +90,7 @@ body {
 /* offer */
 
 .offer-container {
-    color: #0A0A0A;
+    color: #575A5E;
     background-color: #F4F7F5;
     padding-bottom: 16vh;
 }
@@ -149,5 +149,5 @@ body {
 }
 
 .telephones p {
-    line-height: 1vh;
+    line-height: 1.5vh;
 }
