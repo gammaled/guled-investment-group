@@ -78,7 +78,7 @@ body {
 
     text-align: center;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
 
     position: relative;
     z-index: 1;
@@ -135,7 +135,8 @@ body {
 .about-us-container {
     background-color: #575A5E;
     color: #F4F7F5;
-    text-align: center;
+    text-align: left;
+    
     padding-bottom: 16vh;
 }
 
