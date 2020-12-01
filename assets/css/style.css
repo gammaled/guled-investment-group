@@ -135,7 +135,6 @@ body {
 .about-us-container {
     background-color: #575A5E;
     color: #F4F7F5;
-    text-align: left;
     
     padding-bottom: 16vh;
 }
@@ -146,9 +145,10 @@ body {
     padding-bottom: 3.2vh;
 }
 
-.about-us-list {
+.about-us-list p{
     padding-top: 3.2vh;
     padding-bottom: 3.2vh;
+    text-align: left;
 }
 
 /* Contact form */
