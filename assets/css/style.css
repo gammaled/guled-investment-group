@@ -145,6 +145,11 @@ body {
     color: #246B94;
 }
 
+.contact-form button {
+    background-color: #C40B08;
+    border-color: #C40B08;
+}
+
 /* Footer */
 
 #copyright {
