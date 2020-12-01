@@ -144,6 +144,12 @@ body {
     padding-top: 3.2vh;
 }
 
+img {
+    border: 6px solid #F4F7F5;
+    box-shadow: 3px 3px 7px rgba(0,0,0,.35);
+    position: relative;
+}
+
 .about-us-list p{
     color: #575A5E;
 
