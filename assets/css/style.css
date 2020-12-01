@@ -10,15 +10,10 @@ body {
     width: 3.9vw;
     height: 0.5vh;
     border: 0; 
-}
 
-.block-divider--short {
     background-color: #575A5E;
 }
 
-.block-divider--white {
-    color: #F4F7F5;
-}
 /* navbar */
 
 .navbar {
@@ -134,18 +129,20 @@ body {
 
 .about-us-container {
     background-color: #F4F7F5;
-    color: #575A5E;
-    
     padding-bottom: 16vh;
 }
 
 .about-us-heading {
+    color: #246B94;
+
     text-align: center;
     padding-top: 12.8vh;
     padding-bottom: 3.2vh;
 }
 
 .about-us-list p{
+    color: #575A5E;
+
     padding-top: 3.2vh;
     padding-bottom: 3.2vh;
     text-align: left;
