@@ -148,6 +148,10 @@ body {
     text-align: left;
 }
 
+.about-us-list strong p{
+    color: #246B94;
+}
+
 /* Contact form */
 
 .contact-form {
