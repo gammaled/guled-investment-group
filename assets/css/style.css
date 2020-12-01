@@ -156,6 +156,7 @@ body {
 .contact-form {
     padding-bottom: 16vh;
     color: #575A5E;
+    background-color: #F4F7F5;
 }
 
 .contact-form-heading {
@@ -171,6 +172,10 @@ body {
 }
 
 /* Footer */
+
+footer {
+    background-color: #F4F7F5;
+}
 
 #copyright {
     text-align: center;
