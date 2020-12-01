@@ -4,6 +4,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* block divider */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #575A5E;
+}
+
 /* navbar */
 
 .navbar {
@@ -111,6 +120,10 @@ body {
     padding-top: 3.2vh;
     padding-bottom: 3.2vh;
 }
+
+.offer-list h3 {
+    color: #246B94;
+}
 /* About us */
 
 .about-us-container {
@@ -131,7 +144,7 @@ body {
     padding-bottom: 3.2vh;
 }
 
-/* About us */
+/* Contact form */
 
 .contact-form {
     padding-bottom: 16vh;
