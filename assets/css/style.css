@@ -144,12 +144,12 @@ body {
     color: #575A5E;
 
     padding-top: 3.2vh;
-    padding-bottom: 3.2vh;
     text-align: left;
 }
 
 .about-us-list strong p{
     color: #246B94;
+    padding-bottom: 3.2vh;
 }
 
 /* Contact form */
