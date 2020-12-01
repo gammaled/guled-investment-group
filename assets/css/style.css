@@ -134,6 +134,7 @@ body {
 
 .contact-form {
     padding-bottom: 16vh;
+    color: #575A5E;
 }
 
 .contact-form-heading {
@@ -142,7 +143,7 @@ body {
     padding-bottom: 3.2vh;
 }
 
-/* About us */
+/* Footer */
 
 #copyright {
     text-align: center;
