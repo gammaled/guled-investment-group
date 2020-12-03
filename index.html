@@ -13,8 +13,10 @@
 <body>
 
     <!--logo and navbar-->
+
+    <div id="home"></div>
     <header>
-        <nav id="home" class="navbar navbar-dark navbar-expand-lg">
+        <nav class="navbar navbar-dark navbar-expand-lg">
             <a href="#" class="navbar-brand">Guled Investment Group.</a>
         
             <button id= "nav-button" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,10 +25,10 @@
         
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav mr-auto">
-                    <li class="nav-item mr-2"><a class="nav-link" href="#">Home</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" href="#">What we offer</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" href="#">Who are we?</a></li>
-                    <li class="nav-item mr-2"><a class="nav-link" id="contact-us" href="#">Contact Us</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="#home">Home</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="#offer">What we offer</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="#team">Who are we?</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" id="contact-us" href="#contact">Contact Us</a></li>
                 </ul>
             </div>            
         </nav>
@@ -45,8 +47,8 @@
     </div>
 
     <!--"what we offer" section-->
-    <section>
-        <div id="offer" class="offer-container">
+    <section id="offer">
+        <div class="offer-container">
             <h2 class="offer-heading">WHAT WE OFFER:</h2> 
             <hr class="block-divider block-divider--short">       
             <div class="container-fluid offer">
@@ -91,8 +93,8 @@
     </section>
 
     <!--"who are we?" section-->
-    <section>
-        <div id="team" class="about-us-container">
+    <section id="team">
+        <div class="about-us-container">
         <h2 class="about-us-heading">WHO ARE WE?</h2>  
         <hr class="block-divider">
             <div class="container-fluid about-us">
@@ -146,8 +148,8 @@
         </div>
     </section>
     <!--contact form-->
-    <section>
-        <div id="contact" class="contact-form">
+    <section id="contact">
+        <div class="contact-form">
             <div class="row justify-content-md-center justify-content-center">
                 <form class="col-10 col-md-5 col-xl-3">
                     <h2 class="contact-form-heading">CONTACT US</h2>
