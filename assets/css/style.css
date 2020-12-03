@@ -67,6 +67,9 @@ body {
     text-decoration: none;
 }
 
+.navbar .navbar-nav a:hover {
+    border-bottom: 1px solid #C40B08;
+}
 /* call-to-action */
 
 .callout-container {
