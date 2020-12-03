@@ -19,7 +19,7 @@ body {
 .navbar {
     margin-bottom: 0;
     width: 100%;
-    background: none;
+    background: #F4F7F5;
     border-radius: 0;
     z-index: 100;
     padding: 0 0.5rem;
@@ -28,7 +28,7 @@ body {
 .navbar .navbar-brand {
     font-weight: 500;
     font-size: 1.5rem;
-    color: #F4F7F5;
+    color: #246B94;
     padding-left: 0.0625rem;
     
 }
