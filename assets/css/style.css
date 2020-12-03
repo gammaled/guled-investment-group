@@ -147,6 +147,7 @@ body {
 }
 
 img {
+    size: 65%;
     border: 6px solid #F4F7F5;
     box-shadow: 3px 3px 7px rgba(0,0,0,.35);
     position: relative;
