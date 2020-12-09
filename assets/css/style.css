@@ -175,9 +175,10 @@ img {
     text-align: left;
 }
 
-.about-us-list strong p{
+#names{
     color: #246B94;
     padding-bottom: 3.2vh;
+    font-weight: 500;
 }
 
 /* Contact form */
