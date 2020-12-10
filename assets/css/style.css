@@ -64,11 +64,11 @@ body {
     list-style: none;
 }    
 
-.navbar .navbar-nav a:hover {
+.nav-link:hover {
     border-bottom: 1px solid #C40B08;
 }
 
-.navbar .navbar-nav a:active {
+.nav-link:active {
     color:#C40B08;
 }
 
