@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -178,7 +178,7 @@ img {
 #names{
     color: #246B94;
     padding-bottom: 3.2vh;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 /* Contact form */
