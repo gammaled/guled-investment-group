@@ -207,15 +207,9 @@ img {
 
 /* Footer */
 
-footer {
+.footer {
     padding-top: 9.6vh;
     background-color: #F4F7F5;
-}
-
-#copyright {
-    text-align: center;
-}
-
-footer p {
     color: #575A5E;
+    text-align: center;
 }
