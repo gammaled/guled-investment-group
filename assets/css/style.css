@@ -27,7 +27,7 @@ body {
     position: fixed;
 }
 
-.navbar .navbar-brand {
+.navbar-brand {
     font-weight: 500;
     font-size: 1.5rem;
     color: #246B94;
@@ -35,7 +35,7 @@ body {
     
 }
 
-.navbar .navbar-brand:hover {
+.navbar-brand:hover {
     font-weight: 500;
     font-size: 1.5rem;
     color: #246B94;
