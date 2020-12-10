@@ -55,17 +55,14 @@ body {
 }
 
 
-.navbar .navbar-nav li{
-    list-style: none;
-}    
-
-.navbar .navbar-nav a {
+.nav-link{
     font-weight: 400;
     font-size: 100%;
     padding-left: 1vw;
     color: #575A5E;
     text-decoration: none;
-}
+    list-style: none;
+}    
 
 .navbar .navbar-nav a:hover {
     border-bottom: 1px solid #C40B08;
