@@ -42,11 +42,10 @@ body {
     padding-left: 0.0625rem;
 }
 
-#nav-button {
+.navbar-toggler {
     size: 0.5rem;
     border-style: none;
     border-width: 0;
-    color: #246B94;
 }
 
 .navbar .navbar-nav{
