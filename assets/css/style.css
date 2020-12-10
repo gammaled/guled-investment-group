@@ -104,6 +104,10 @@ body {
 
 }
 
+#callout-heading {
+    font-weight: 500;
+}
+
 .callout-container .btn {
     color: #F4F7F5;
     background-color: #C40B08;
