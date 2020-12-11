@@ -8,6 +8,8 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
+    background-color: #F4F7F5;
+    color:  ;
 }
 
 /* block divider */
@@ -16,7 +18,9 @@ body {
 
 /* navbar */
 
-
+.navbar {
+    
+}
 
 /* call-to-action */
 
