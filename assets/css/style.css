@@ -15,7 +15,8 @@ body {
 .heading {
     font-size: 3rem;
     color: #246B94;
-    text-align: center;
+    text-align: center; 
+    margin: 5rem;
 }
 
 
