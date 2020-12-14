@@ -32,7 +32,10 @@ body {
 
 /* call-to-action */
 
-.callout {
+.callout-container {
+    background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
+    background-size: cover;
+    height: 95vh;
 }
 
 /* offer */
