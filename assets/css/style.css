@@ -68,6 +68,11 @@ body {
     color: #F4F7F5;
 }
 
+#fineprint {
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
 /* offer */
 
 .subheading {
