@@ -41,10 +41,15 @@ body {
 
 .navbar-brand {
     color: #246B94;
+    text-decoration: none;
 }
 
 .nav-link {
     color: #575A5E;
+}
+
+.nav-link:hover {
+    color: #246B94;    
 }
 
 /* call-to-action */
