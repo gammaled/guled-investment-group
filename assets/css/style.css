@@ -53,7 +53,7 @@ body {
 
 .callout {
     position: absolute;
-    top: 50%;
+    top: 40%;
     height: 100vh;
     margin-top: -5rem;
     text-align: center;
