@@ -14,11 +14,16 @@ body {
 
 .heading {
     font-size: 2.5rem;
+    font-weight: 500;
     color: #246B94;
     text-align: center; 
     margin: 5rem;
 }
 
+.section-container {
+    margin-top: 20rem;
+    margin-bottom: 30rem;
+}
 
 /* block divider */
 
