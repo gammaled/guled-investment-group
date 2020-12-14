@@ -48,6 +48,14 @@ body {
     background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
     background-size: cover;
     height: 95vh;
+    position: relative;
+}
+
+.callout {
+    position: absolute;
+    top: 50%;
+    height: 100px;
+    margin-top: -50px;
 }
 
 /* offer */
