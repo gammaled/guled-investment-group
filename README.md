@@ -110,9 +110,9 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [navbar](https://stackoverflow.com/questions/57980013/adding-space-between-navbar-logo-and-first-nav-link)
 
-* [jumbotron & background video](https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron)
+* [jumbotron & background video[1]](https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron)
 
-https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron
+* [jumbotron & background video[2]](https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron)
 
 * [Centering private equity image](https://www.w3schools.com/howto/howto_css_image_center.asp)
 
