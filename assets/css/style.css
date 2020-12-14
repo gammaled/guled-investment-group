@@ -21,8 +21,8 @@ body {
 }
 
 .section-container {
-    margin-top: 20rem;
-    margin-bottom: 30rem;
+    margin: 20rem 0 30rem;
+    
 }
 
 /* block divider */
