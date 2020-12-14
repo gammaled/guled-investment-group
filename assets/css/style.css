@@ -22,7 +22,11 @@ body {
 
 /* block divider */
 
-
+.block-divider {
+    width: 7rem;
+    height: 0.3rem;
+    background-color: #C40B08;
+}
 
 /* navbar */
 
