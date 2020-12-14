@@ -75,7 +75,11 @@ body {
 
 /* About us */
 
-
+.staff-image {
+    width: 25rem; 
+    height: auto; 
+    padding: 3rem;  
+}
 
 /* Contact form */
 
