@@ -55,7 +55,6 @@ body {
     background-size: cover;
     height: 98vh;
     position: relative;
-    z-index: 100;
 }
 
 .callout {
