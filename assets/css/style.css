@@ -51,9 +51,11 @@ body {
 
 .callout-container {
     background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
+    background-color: rgba(36, 107, 148, .3);
     background-size: cover;
     height: 98vh;
     position: relative;
+    z-index: 100;
 }
 
 .callout {
@@ -68,11 +70,14 @@ body {
 /* offer */
 
 .subheading {
-    margin-top: 3rem;
+    margin: 3rem 0 1.5rem;
     color: #246B94;
     font-weight: 500;
 }
 
+.staff-description {
+    padding: 3rem 0;
+}
 
 /* About us */
 
