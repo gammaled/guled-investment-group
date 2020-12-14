@@ -47,15 +47,17 @@ body {
 .callout-container {
     background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
     background-size: cover;
-    height: 95vh;
+    height: 98vh;
     position: relative;
 }
 
 .callout {
     position: absolute;
     top: 50%;
-    height: 100px;
-    margin-top: -50px;
+    height: 100vh;
+    margin-top: -5rem;
+    text-align: center;
+    margin: 0 auto;
 }
 
 /* offer */
