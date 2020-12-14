@@ -108,44 +108,28 @@ View wireframes for each device here:
 ### Code References ###
 Used Code Institute bootstrap basecamp code source as a template for the project.
 
-navbar:
+* [navbar](https://stackoverflow.com/questions/57980013/adding-space-between-navbar-logo-and-first-nav-link)
 
- https://stackoverflow.com/questions/57980013/adding-space-between-navbar-logo-and-first-nav-link
-
-jumbotron & background video:
-
- https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron
+* [jumbotron & background video](https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron)
 
 https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron
 
-Centering private equity image:
+* [Centering private equity image](https://www.w3schools.com/howto/howto_css_image_center.asp)
 
-https://www.w3schools.com/howto/howto_css_image_center.asp
+* [Positioning of callout and centering content](https://css-tricks.com/centering-css-complete-guide/)
 
-Positioning of callout and centering content:
+* [Adding shadow cover to background image](https://stackoverflow.com/a/24084708)
 
-https://css-tricks.com/centering-css-complete-guide/
+* [Adding border and box shadow to about-us images](https://www.w3schools.com/css/css3_images.asp)
 
-Adding shadow cover to background image:
+* [For single page scroll effect](https://www.turnwall.com/articles/adding-single-page-scrolling-navigation-to-your-site/)
 
-https://stackoverflow.com/a/24084708
-
-Adding border and box shadow to about-us images:
-
-https://www.w3schools.com/css/css3_images.asp
-
-For single page scroll effect:
-
-https://www.turnwall.com/articles/adding-single-page-scrolling-navigation-to-your-site/
-
-Nav link hover effect:
-
-https://stackoverflow.com/a/9586632
+* [Nav link hover effect](https://stackoverflow.com/a/9586632)
 
 ### Image/video references ###
 
-- Mohamed Ali: https://www.pexels.com/photo/smiling-black-businessman-in-suit-sitting-on-table-4668490/
-- Sarah: https://www.pexels.com/photo/woman-posing-937483/
-- Mercy: https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/
-- Peter: https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/
+* [Mohamed Ali](https://www.pexels.com/photo/smiling-black-businessman-in-suit-sitting-on-table-4668490/)
+* [Sarah](https://www.pexels.com/photo/woman-posing-937483/)
+* [Mercy](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
+* [Peter](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
 
