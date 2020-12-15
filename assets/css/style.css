@@ -91,6 +91,9 @@ body {
     padding: 3rem 0;
 }
 
+.emph {
+    color: #C40B08;
+}
 /* About us */
 
 .staff-image {
