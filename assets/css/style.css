@@ -49,7 +49,8 @@ body {
 }
 
 .nav-link:hover {
-    color: #246B94;    
+    color: #246B94;  
+    border-bottom: 0.2rem solid #C40B08;  
 }
 
 /* call-to-action */
