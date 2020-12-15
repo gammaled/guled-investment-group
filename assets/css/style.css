@@ -106,11 +106,9 @@ body {
 
 /* Contact form */
 
-.contact-form {
-    height: 40vh;
-    width: auto;
-}
 
 /* Footer */
 
-
+.details {
+    text-align: center;
+}
