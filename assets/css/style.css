@@ -93,6 +93,7 @@ body {
 
 .emph {
     color: #C40B08;
+    font-weight: 500;
 }
 /* About us */
 
@@ -105,6 +106,10 @@ body {
 
 /* Contact form */
 
+.contact-form {
+    height: 40vh;
+    width: auto;
+}
 
 /* Footer */
 
