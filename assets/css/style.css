@@ -21,8 +21,14 @@ body {
 }
 
 .section-container {
-    margin: 20rem 0 30rem;
+    padding: 20rem 0 30rem;
     
+}
+
+.section-background {
+    background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
+    box-shadow: inset 0 0 0 1000px rgba(244, 247, 245, .90);
+    background-size: cover;
 }
 
 /* block divider */
@@ -95,6 +101,11 @@ body {
     color: #C40B08;
     font-weight: 500;
 }
+
+/* How its done */
+
+
+
 /* About us */
 
 .staff-image {
@@ -105,6 +116,7 @@ body {
 }
 
 /* Contact form */
+
 
 
 /* Footer */
