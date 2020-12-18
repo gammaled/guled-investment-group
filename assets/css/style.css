@@ -48,6 +48,7 @@ body {
 .navbar-brand {
     color: #246B94;
     text-decoration: none;
+    margin: 0;
 }
 
 .nav-link {
@@ -60,9 +61,8 @@ body {
 }
 
 .navbar-toggler-icon {
-  border-color: #575A5E;
   color: #575A5E;
-  font-size: 2rem;
+  font-size: 1.3rem;
 }
 /* call-to-action */
 
