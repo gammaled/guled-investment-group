@@ -133,13 +133,13 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 ### Image Sources ###
 
-* [Investment hero image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
+* [Investment Hero Image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
 
-* [Mohamed Ali, staff image](https://www.pexels.com/photo/smiling-black-businessman-in-suit-sitting-on-table-4668490/)
+* [Mohamed Ali, Staff Image](https://www.pexels.com/photo/smiling-black-businessman-in-suit-sitting-on-table-4668490/)
 
-* [Sarah Huang, staff image](https://www.pexels.com/photo/woman-posing-937483/)
+* [Sarah Huang, Staff Image](https://www.pexels.com/photo/woman-posing-937483/)
 
-* [Mercy Nyong'o, staff image](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
+* [Mercy Nyong'o, Staff Image](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
 
-* [Peter Andersson, staff image](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
+* [Peter Andersson, Staff Image](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
 
