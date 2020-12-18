@@ -104,20 +104,22 @@ View wireframes for each device here:
 
 <details>
   <summary><strong>What didn't make the cut and why:</strong></summary>
-  My **wireframes** and the website in each display format have ended up looking different to each other. This is my first project in UI/UX and I have noticed that what I planned to do did not work in reality in terms of UX/UI. My wireframes looked amazing but it did not translate so well on the different device screen. 
+  My <strong>wireframes</strong> and the website in each display format have ended up looking different to each other. This is my first project in UI/UX and I have noticed that what I planned to do did not work in reality in terms of UX/UI. My wireframes looked amazing but it did not translate so well on the different device screen. 
 
   This is my first project in UI/UX, as a result there were a few features that ended up taking too much time and became too difficult for me to do. 
+</details>
 
 ## References ##
 ---
 ### Code References ###
+
 Used Code Institute bootstrap basecamp code source as a template for the project.
 
-* [navbar](https://stackoverflow.com/questions/57980013/adding-space-between-navbar-logo-and-first-nav-link)
+* [Navbar](https://stackoverflow.com/questions/57980013/adding-space-between-navbar-logo-and-first-nav-link)
 
-* [jumbotron & background video[1]](https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron)
+* [Jumbotron & background video [1]](https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron)
 
-* [jumbotron & background video[2]](https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron)
+* [Jumbotron & background video [2]](https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron)
 
 * [Positioning of callout and centering content](https://css-tricks.com/centering-css-complete-guide/)
 
