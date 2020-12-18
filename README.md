@@ -12,6 +12,7 @@
         * Fonts
         * Icons
         * Colours
+    * Wireframing
 * Technologies
 * Features
     * Features that have been developed
