@@ -158,7 +158,9 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Jumbotron & background video [2]](https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron)
 
-* [Positioning of callout and centering content](https://css-tricks.com/centering-css-complete-guide/)
+* [Positioning of callout and centering content [1]](https://css-tricks.com/centering-css-complete-guide/)
+
+* [Positioning of callout and centering content [2]](https://damianism.github.io/custom_pc/)
 
 * [Adding shadow cover to background image](https://stackoverflow.com/a/24084708)
 
@@ -167,6 +169,7 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 * [For single page scroll effect](https://www.turnwall.com/articles/adding-single-page-scrolling-navigation-to-your-site/)
 
 * [Nav link hover effect](https://stackoverflow.com/a/9586632)
+
 
 ### Investment Information Sources ###
 
