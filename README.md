@@ -127,6 +127,15 @@ View wireframes for each device here:
 * [Google Fonts](https://fonts.google.com/)
 * [Gitpod](https://gitpod.io/workspaces/)
 
+## Features ##
+---
+**Features** that have been **implemented**:
+*  Simple to use **navigation bar** on all screen resolutions.
+*  **Contact form** to fill out with personal details
+*  **Minimalist** and **attractive** design.
+* **Single page scroll** for easy navigation and use.
+
+
 
 ## References ##
 ---
