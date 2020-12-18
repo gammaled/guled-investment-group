@@ -135,7 +135,12 @@ View wireframes for each device here:
 *  **Minimalist** and **attractive** design.
 * **Single page scroll** for easy navigation and use.
 
-
+**Features** that will be **implemented** in the **future**:
+*  Responsive **video background** in callout 
+*  **Embedded videos** explaining what we do and what we offer 
+*  **Google maps location** for potential clients to find our office 
+*  **Social media** links
+*   
 
 ## References ##
 ---
