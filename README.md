@@ -133,8 +133,14 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 ### Image/video references ###
 
+* [Investment hero image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
+
+**'Who are we?' section:**
 * [Mohamed Ali](https://www.pexels.com/photo/smiling-black-businessman-in-suit-sitting-on-table-4668490/)
-* [Sarah](https://www.pexels.com/photo/woman-posing-937483/)
-* [Mercy](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
-* [Peter](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
+
+* [Sarah Huang](https://www.pexels.com/photo/woman-posing-937483/)
+
+* [Mercy Nyong'o](https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/)
+
+* [Peter Andersson](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
 
