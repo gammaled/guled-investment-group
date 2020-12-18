@@ -110,6 +110,24 @@ View wireframes for each device here:
   This is my first project in UI/UX, as a result there were a few features that ended up taking too much time and became too difficult for me to do. 
 </details>
 
+## Technologies Used ##
+---
+**Languages**
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://nl.wikipedia.org/wiki/JavaScript)
+* [JQuery](https://jquery.com/) 
+* [Popper](https://popper.js.org/)
+
+**Tools & Libraries**
+
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Fonts](https://fonts.google.com/)
+* [Gitpod](https://gitpod.io/workspaces/)
+
+
 ## References ##
 ---
 ### Code References ###
