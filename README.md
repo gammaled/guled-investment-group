@@ -13,7 +13,7 @@
         * Icons
         * Colours
     * Wireframing
-* Technologies
+* Technologies Used
 * Features
     * Features that have been developed
     * Features that will be implemented in the future
