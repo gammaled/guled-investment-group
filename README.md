@@ -21,6 +21,7 @@
 * Bugs
 * Deployment
 * Credit
+* References
 
 ## UX (User Experience) ##
 ---
