@@ -131,6 +131,10 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Nav link hover effect](https://stackoverflow.com/a/9586632)
 
+### Investment Information Sources ###
+
+* [Value Investing](https://www.moneyunder30.com/value-investing/)
+
 ### Image Sources ###
 
 * [Investment Hero Image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
