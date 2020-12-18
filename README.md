@@ -90,7 +90,7 @@ The **purpose** for each colour:
 
 ![Color Scheme](wireframes/colour-scheme.png)
 
-## Wireframing ##
+### Wireframing ###
 
 For **wireframing**, I used [Balsamiq](https://balsamiq.com/). I used it to create **simple** wireframes 
 showing the basic structure on which I built the website on. Some features maybe removed or added during 
@@ -102,7 +102,11 @@ View wireframes for each device here:
 * [Tablet](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20tablet.pdf)
 * [Mobile](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20mobile.pdf)
 
+<details>
+  <summary><strong>What didn't make the cut and why:</strong></summary>
+  My **wireframes** and the website in each display format have ended up looking different to each other. This is my first project in UI/UX and I have noticed that what I planned to do did not work in reality in terms of UX/UI. My wireframes looked amazing but it did not translate so well on the different device screen. 
 
+  This is my first project in UI/UX, as a result there were a few features that ended up taking too much time and became too difficult for me to do. 
 
 ## References ##
 ---
