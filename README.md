@@ -135,6 +135,10 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Value Investing](https://www.moneyunder30.com/value-investing/)
 
+* [Diversification](https://www.investopedia.com/investing/importance-diversification/#:~:text=What%20Is%20Diversification%20in%20Investing,differently%20to%20the%20same%20event.)
+
+* [Risk Arbitrage](https://www.investopedia.com/terms/r/riskarbitrage.asp)
+
 ### Image Sources ###
 
 * [Investment Hero Image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
