@@ -59,6 +59,11 @@ body {
     border-bottom: 0.2rem solid #C40B08;  
 }
 
+.navbar-toggler-icon {
+  border-color: #575A5E;
+  color: #575A5E;
+  font-size: 2rem;
+}
 /* call-to-action */
 
 .callout-container {
