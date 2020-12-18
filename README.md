@@ -115,8 +115,6 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [jumbotron & background video[2]](https://stackoverflow.com/questions/46988327/set-a-responsive-video-background-for-bootstrap-jumbotron)
 
-* [Centering private equity image](https://www.w3schools.com/howto/howto_css_image_center.asp)
-
 * [Positioning of callout and centering content](https://css-tricks.com/centering-css-complete-guide/)
 
 * [Adding shadow cover to background image](https://stackoverflow.com/a/24084708)
