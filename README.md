@@ -145,7 +145,6 @@ View wireframes for each device here:
 ---
 
 
-
 ## References ##
 ---
 ### Code References ###
@@ -191,3 +190,8 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Peter Andersson, Staff Image](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
 
+
+### Special Thanks ###
+* My mentor and The Grandmaster Yoda himself, [Simen Daehlin](https://github.com/Eventyret), for guiding me along the way and helping me find my way when I got lost. For being understanding and patient with me. 
+* [byIlsa](https://github.com/byIlsa) for her awesome, well-structured README that helped me to write mine.
+* The Code Institute tutors and Slack community for their assistance and guidance.
