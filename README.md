@@ -153,7 +153,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 
 * Fixes:
 
-    * The headers have been styled manual in CSS without the use of h2-h6 tags
+    * Chagned all section header p tags to h2 tags
 
 I also tested the website by using [Lighthouse](https://developers.google.com/web/tools/lighthouse). **Performance**, **Accessibility**, **Best Practices** and **SEO** were tested then rated on a scale of 1-100. I tested both **mobile** and **desktop**:
 
@@ -203,6 +203,10 @@ There have been a few bugs encountered and I will list them below with solutions
     * Removed it and replaced it with an image background since it is beyond the scope of my abilities and would have wasted time. Will come back to it later on. 
 *   Background image for callout would not appear:
     * Changed background-image property to background
+
+**From validation/testing**
+* Section headers had p tags instead of h2 tags
+    * Changed their tags to h2 tags 
     
 
 
