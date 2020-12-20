@@ -143,7 +143,17 @@ View wireframes for each device here:
 
 ## Testing ##
 ---
+I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css-validator/) and it came out **no errors found**.
 
+I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/) and I got the following **results**: 
+* Warning:
+
+    * "Who are we?" section lacks heading
+    * Contact form section lacks heading
+
+* Fixes:
+
+    * The headers have been styled manual in CSS without the use of h2-h6 tags
 
 ## References ##
 ---
