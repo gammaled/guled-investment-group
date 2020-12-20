@@ -217,7 +217,7 @@ When deploying **Guled Investment Group** website using **GitHub Pages** the fol
 * Opened up GitHub in the browser.
 * Signed in using username and password.
 * Selected my repositories.
-* Navigated to byIlsa/Aloy-from-outcast-to-heroine.
+* Navigated to gammaled/guled-investment-group.
 * In the top navigation clicked settings.
 * Scrolled down to the GitHub Pages area.
 * Selected Master Branch from the Source dropdown menu.
@@ -226,7 +226,7 @@ When deploying **Guled Investment Group** website using **GitHub Pages** the fol
 
 Running **Guled Investment Group** website Locally:
 
-* Navigate to byIlsa/Aloy-from-outcast-to-heroine.
+* Navigate to gammaled/guled-investment-group.
 * Click the green Clone or Download button.
 * Copy the url in the dropdown box.
 * Using your favourite IDE open up your preferred terminal.
