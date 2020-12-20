@@ -153,7 +153,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 
 * Fixes:
 
-    * Chagned all section header p tags to h2 tags
+    * Changed all section header ```p``` tags to ```h2``` tags
 
 I also tested the website by using [Lighthouse](https://developers.google.com/web/tools/lighthouse). **Performance**, **Accessibility**, **Best Practices** and **SEO** were tested then rated on a scale of 1-100. I tested both **mobile** and **desktop**:
 
@@ -167,7 +167,7 @@ I also tested the website by using [Lighthouse](https://developers.google.com/we
         * **Fix**: changed colour of button to International Orange Engineering #C40B08.
 
     * **Navigation**: Heading elements are not in a sequentially-descending order. 
-        * **Fix**: changed p tags of "what we offer" header to h2.
+        * **Fix**: changed ```p``` tags of "what we offer" header to ```h2```.
 
 * **Best Practices** (100/100)
 
@@ -205,8 +205,8 @@ There have been a few bugs encountered and I will list them below with solutions
     * Changed background-image property to background
 
 **From validation/testing**
-* Section headers had p tags instead of h2 tags
-    * Changed their tags to h2 tags 
+* Section headers had ```p``` tags instead of ```h2``` tags
+    * Changed their tags to ```h2``` tags 
     
 ## Deployment ##
 ---
