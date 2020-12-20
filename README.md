@@ -218,7 +218,7 @@ When deploying **Guled Investment Group** website using **GitHub Pages** the fol
 * Signed in using username and password.
 * Selected my repositories.
 * Navigated to gammaled/guled-investment-group.
-* In the top navigation clicked settings.
+* In the top navigation, click settings.
 * Scrolled down to the GitHub Pages area.
 * Selected Master Branch from the Source dropdown menu.
 * Clicked to confirm my selection.
