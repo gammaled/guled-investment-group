@@ -159,7 +159,7 @@ I also tested the website by using [Lighthouse](https://developers.google.com/we
 
 **Mobile**
 * Performance (62/100):
-    * **Issue**: Properly size image. **Fix**: slightly reduced size of staff images
+    * **Issue**: Properly size image. **Fix**: slightly reduced size of staff images.
 
 * Accessibility (97/100):
     * **Contrast**: Background and foreground colours do not have a sufficient contrast ratio specifically "Learn More" button in callout. **Fix**: changed colour of button to International Orange Engineering #C40B08.
@@ -170,7 +170,15 @@ I also tested the website by using [Lighthouse](https://developers.google.com/we
 * SEO (100/100)
 
 **Desktop**
-* 
+* Performance (70/100):
+    * **Issue**: Properly size image. **Fix**: slightly reduced size of staff images.
+
+* Accessibility (100/100)
+   
+* Best Practices (100/100)
+
+* SEO (100/100)
+
     
 ## References ##
 ---
