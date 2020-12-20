@@ -208,8 +208,33 @@ There have been a few bugs encountered and I will list them below with solutions
 * Section headers had p tags instead of h2 tags
     * Changed their tags to h2 tags 
     
+## Deployment ##
+---
+**Guled Investment Group** website was developed on **GitPod**, using **git** and **GitHub** to host the repository.
 
+When deploying **Guled Investment Group** website using **GitHub Pages** the following steps were made:
 
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to byIlsa/Aloy-from-outcast-to-heroine.
+* In the top navigation clicked settings.
+* Scrolled down to the GitHub Pages area.
+* Selected Master Branch from the Source dropdown menu.
+* Clicked to confirm my selection.
+* Aloy: from Outcast tot Heroine now live on GitHub Pages.
+
+Running **Guled Investment Group** website Locally:
+
+* Navigate to byIlsa/Aloy-from-outcast-to-heroine.
+* Click the green Clone or Download button.
+* Copy the url in the dropdown box.
+* Using your favourite IDE open up your preferred terminal.
+* Navigate to your desired file location.
+
+**Copy** the following code and **input** it into your **terminal** to clone **Guled Investment Group** website.
+
+```git clone https://github.com/gammaled/guled-investment-group```
 ## References ##
 ---
 ### Code References ###
