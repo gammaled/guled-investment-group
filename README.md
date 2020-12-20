@@ -189,6 +189,23 @@ I also tested the website by using [Lighthouse](https://developers.google.com/we
 * I got the contact form from [Bootstrap](https://getbootstrap.com/) which is used to contact the **website owner** for more information. I customized and styled it to fit the colour scheme and design plans. The **user** enters their personal contact information in the **form field**.
 * For now, there will be no feedback since it will not be possible to send a form.
     
+## Bugs ##
+---
+There have been a few bugs encountered and I will list them below with solutions.
+
+**During development**
+
+* Navbar links would not position on the right hand side as planned:
+    * I left it for later to figure out since it was not too important for the design. 
+* Hovering over any navbar links shifts all of them upwards:
+    * Still trying to figure it out and fix it.
+* Unresponsive video background for callout:
+    * Removed it and replaced it with an image background since it is beyond the scope of my abilities and would have wasted time. Will come back to it later on. 
+*   Background image for callout would not appear:
+    * Changed background-image property to background
+    
+
+
 ## References ##
 ---
 ### Code References ###
