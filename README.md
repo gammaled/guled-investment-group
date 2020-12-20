@@ -155,6 +155,23 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 
     * The headers have been styled manual in CSS without the use of h2-h6 tags
 
+I also tested the website by using [Lighthouse](https://developers.google.com/web/tools/lighthouse). **Performance**, **Accessibility**, **Best Practices** and **SEO** were tested then rated on a scale of 1-100. I tested both **mobile** and **desktop**:
+
+**Mobile**
+* Performance (62/100):
+    * **Issue**: Properly size image. **Fix**: slightly reduced size of staff images
+
+* Accessibility (97/100):
+    * **Contrast**: Background and foreground colours do not have a sufficient contrast ratio specifically "Learn More" button in callout. **Fix**: changed colour of button to International Orange Engineering #C40B08.
+    * **Navigation**: Heading elements are not in a sequentially-descending order. **Fix**: changed p tags of "what we offer" header to h2.
+
+* Best Practices (100/100)
+
+* SEO (100/100)
+
+**Desktop**
+* 
+    
 ## References ##
 ---
 ### Code References ###
