@@ -209,31 +209,22 @@ There have been a few bugs encountered and I will list them below with solutions
     
 ## Deployment ##
 ---
-**Guled Investment Group** website was developed on **GitPod**, using **git** and **GitHub** to host the repository.
+This project was deployed via GitHub by executing the following steps. After writing the code, committing and pushing it to GitHub:
 
-When deploying **Guled Investment Group** website using **GitHub Pages** the following steps were made:
+* Navigate to the repository on github and click **Settings**.
+* From there, go to the **Source section** within the Github Pages section.
+* Select **master branch** on the dropdown menu, and click save.
+* Now the website is live on:
+```https://yourgithubusername.github.io/your-repo-name```
+* Any time commits and pushes are sent to Github, the Github Pages site should update shortly after.
 
-* Opened up GitHub in the browser.
-* Signed in using username and password.
-* Selected my repositories.
-* Navigated to gammaled/guled-investment-group.
-* In the top navigation, click settings.
-* Scrolled down to the GitHub Pages area.
-* Selected Master Branch from the Source dropdown menu.
-* Clicked to confirm my selection.
-* Aloy: from Outcast tot Heroine now live on GitHub Pages.
+To run the project locally:
+Click the **green Clone** or **Download button** on the Github Repository
+Using the **Clone with HTTPS option**, copy the link displayed.
+Open your IDE, and ensure the Git Terminal is open.
+Change the working directory to the location where the cloned directory is to go.
+Use the **"git clone" command** and paste the url copied in the second step.
 
-Running **Guled Investment Group** website Locally:
-
-* Navigate to gammaled/guled-investment-group.
-* Click the green Clone or Download button.
-* Copy the url in the dropdown box.
-* Using your favourite IDE open up your preferred terminal.
-* Navigate to your desired file location.
-
-**Copy** the following code and **input** it into your **terminal** to clone **Guled Investment Group** website.
-
-```git clone https://github.com/gammaled/guled-investment-group```
 ## References ##
 ---
 ### Code References ###
