@@ -1,6 +1,6 @@
-# Guled Investment Group #
+# Guled Investment Group 
 
-## Contents ##
+## Contents 
 ---
 * UX
     * Project Goals
@@ -23,13 +23,13 @@
 * Credit
 * References
 
-## UX (User Experience) ##
+## UX (User Experience) 
 ---
-### Project Goals ### 
+### Project Goals 
 
 The **goal** for this project is to **introduce** to **potential investors** an investment fund managed by **Guled Investment Group**, including: what an investment fund is, who manages it and commission fee structure.
 
-### User Goals ###
+### User Goals 
 
 * **Learn and Understand** what an investment fund is and how it works.
 * **Find out** whether investing into an investment fund is viable and beneficial to user. 
@@ -39,7 +39,7 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * **Learn more** about the **investment managers**: their investing background and credentials.
 * **Be reassured** that the investment fund and company, that includes investment managers, are appropriately  **accredited** and **licensed**.
  
-### User Stories ###
+### User Stories 
 
 * As a **user**, I want an **informative** and **well-structured website** so I will be **properly informed without confusion**.
 * As a **user**, I want to **understand** what an **investment fund** in a **language I can understand** without **too much financial jargon**.
@@ -47,12 +47,12 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * As a **user**, I want to be **reassured** that the company and its investment managers are **well qualified** and **credible** in **investment management**.
 * As a **user**, I want an **easily navigable website** that is **straight to the point** and leads me directly to the **relevant information**, avoiding **unnecessarily tedious design obstacles**.
 
-### Site Owner Goals ###
+### Site Owner Goals 
 * As a **site owner**, I want to **provide the correct information** on **investment funds** and **effectively define in simple terms** what it is. This is that **user** is **well-informed** before **making a decision** to **invest**. 
 * As a **site owner**, I want to **market** to **users** about the **investment fund** we manage and **show what makes it different**, in terms of **how we manage it** and **commission fee structure**.
 * As a **site owner**, I want to make it as **easy as possible** for **users** to **get in touch** for more information to understand our services better.  
 
-### User Requirements and Expectations ###
+### User Requirements and Expectations 
 
 **Requirements**
 * **Navigate** the website using the navbar that scrolls to the requested section.
@@ -65,7 +65,7 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 * **Built** to look **professional** and with **high-quality design** should **reflect the service provided**.
 * **Provide** the **most relevant information** that is **most helpful** to the user in order to **keep things short**. 
 
-### Design Choices ###
+### Design Choices 
 ---
 **Fonts**
 
@@ -86,7 +86,7 @@ The **purpose** for each colour:
 
 ![Color Scheme](wireframes/colour-scheme.png)
 
-### Wireframing ###
+### Wireframing 
 
 For **wireframing**, I used [Balsamiq](https://balsamiq.com/). I used it to create **simple** wireframes 
 showing the basic structure on which I built the website on. Some features maybe removed or added during 
@@ -105,7 +105,7 @@ View wireframes for each device here:
   This is my first project in UI/UX, as a result there were a few features that ended up taking too much time and became too difficult for me to do. 
 </details>
 
-## Technologies Used ##
+## Technologies Used 
 ---
 **Languages**
 
@@ -122,7 +122,7 @@ View wireframes for each device here:
 * [JQuery](https://jquery.com/) 
 * [Popper](https://popper.js.org/)
 
-## Features ##
+## Features 
 ---
 **Features** that have been **implemented**:
 *  Simple to use **navigation bar** on all screen resolutions.
@@ -136,7 +136,7 @@ View wireframes for each device here:
 *  **Google maps location** for potential clients to find our office 
 *  **Social media** links
 
-## Testing ##
+## Testing 
 ---
 I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css-validator/) and it came out **no errors found**.
 
@@ -184,7 +184,7 @@ I also tested the website by using [Lighthouse](https://developers.google.com/we
 * I got the contact form from [Bootstrap](https://getbootstrap.com/) which is used to contact the **website owner** for more information. I customized and styled it to fit the colour scheme and design plans. The **user** enters their personal contact information in the **form field**.
 * For now, there will be no feedback since it will not be possible to send a form.
     
-## Bugs ##
+## Bugs 
 ---
 There have been a few bugs encountered and I will list them below with solutions.
 
@@ -203,7 +203,7 @@ There have been a few bugs encountered and I will list them below with solutions
 * Section headers had ```p``` tags instead of ```h2``` tags
     * Changed their tags to ```h2``` tags 
     
-## Deployment ##
+## Deployment 
 ---
 This project was deployed via GitHub by executing the following steps. After writing the code, committing and pushing it to GitHub:
 
@@ -221,9 +221,9 @@ Open your IDE, and ensure the Git Terminal is open.
 Change the working directory to the location where the cloned directory is to go.
 Use the **"git clone" command** and paste the url copied in the second step.
 
-## References ##
+## References 
 ---
-### Code References ###
+### Code References 
 
 Used Code Institute bootstrap basecamp code source as a template for the project.
 
@@ -246,7 +246,7 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 * [Nav link hover effect](https://stackoverflow.com/a/9586632)
 
 
-### Investment Information Sources ###
+### Investment Information Sources 
 
 * [Value Investing](https://www.moneyunder30.com/value-investing/)
 
@@ -254,7 +254,7 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Risk Arbitrage](https://www.investopedia.com/terms/r/riskarbitrage.asp)
 
-### Image Sources ###
+### Image Sources 
 
 * [Investment Hero Image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
 
@@ -267,7 +267,7 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 * [Peter Andersson, Staff Image](https://www.pexels.com/photo/man-wearing-white-dress-shirt-and-black-blazer-2182970/)
 
 
-### Special Thanks ###
+### Special Thanks 
 * My mentor and The Grandmaster Yoda himself, [Simen Daehlin](https://github.com/Eventyret), for guiding me along the way and helping me find my way when I got lost. For being understanding and patient with me. 
 * [byIlsa](https://github.com/byIlsa) for her awesome, well-structured README that helped me to write mine.
 * The Code Institute tutors and Slack community for their assistance and guidance.
