@@ -99,9 +99,9 @@ development.
 
 View wireframes for each device here:
 
-* [Desktop](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20desktop.pdf)
-* [Tablet](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20tablet.pdf)
-* [Mobile](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG%20mobile.pdf)
+* [Desktop](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/gig-desktop.pdf)
+* [Tablet](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG-tablet.pdf)
+* [Mobile](https://github.com/gammaled/guled-investment-group/blob/master/wireframes/GIG-mobile.pdf)
 
 <details>
   <summary><strong>What didn't make the cut and why:</strong></summary>
