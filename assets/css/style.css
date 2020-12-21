@@ -127,6 +127,7 @@ body {
 
 /* Footer */
 
-.details {
+#footer {
     text-align: center;
+    padding: 1.6rem 0 0.9rem 0;
 }
