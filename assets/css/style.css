@@ -20,6 +20,11 @@ body {
     margin: 3rem;
 }
 
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .section-container {
     padding: 20rem 0 30rem;
     
