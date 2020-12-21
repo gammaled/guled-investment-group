@@ -74,8 +74,7 @@ in the User-centric Frontend Development module as a template on which I complet
 **Fonts**
 
 I tried to look for very simple fonts that were very easy to read and looked professional. 
-I chose [Roboto](https://fonts.google.com/specimen/Roboto) for headings and 
-[Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) for text. 
+I chose [Roboto](https://fonts.google.com/specimen/Roboto) all headings and text. 
 
 **Colours**
 
