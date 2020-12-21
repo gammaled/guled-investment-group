@@ -116,8 +116,6 @@ View wireframes for each device here:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JavaScript](https://nl.wikipedia.org/wiki/JavaScript)
-* [JQuery](https://jquery.com/) 
-* [Popper](https://popper.js.org/)
 
 **Tools & Libraries**
 
@@ -125,6 +123,8 @@ View wireframes for each device here:
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Google Fonts](https://fonts.google.com/)
 * [Gitpod](https://gitpod.io/workspaces/)
+* [JQuery](https://jquery.com/) 
+* [Popper](https://popper.js.org/)
 
 ## Features ##
 ---
