@@ -220,14 +220,28 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 ---
 There have been a few bugs encountered and I will list them below with solutions.
 
-**During development**
+### Navbar links not positioned on right side 
+* **Bug**<br>The nav links would not position on the right hand side of the navbar as planned in the wireframes.
 
-* Navbar links would not position on the right hand side as planned:
-    * I left it for later to figure out since it was not too important for the design. 
-* Hovering over any navbar links shifts all of them upwards:
-    * Still trying to figure it out and fix it.
-* Unresponsive video background for callout:
-    * Removed it and replaced it with an image background since it is beyond the scope of my abilities and would have wasted time. Will come back to it later on. 
+* **Fix**<br>I left it for later to figure out.
+
+* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Since it was not too important for the design, I will returned to it later. 
+
+### Navbar links pushed upwards during hover 
+* **Bug**<br>Hovering over any navbar links shifts all of them upwards.
+
+* **Fix**<br>Still trying to figure it out and fix it.
+
+* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Will return to it later. 
+
+### Unresponsive video background for callout
+* **Bug**<br>Video background would not adjusted to smaller screens and would only occupy a small area of the screen rather than adjust too fit into the callout section.
+
+* **Fix**<br>Removed it and replaced it with an image background. 
+
+* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Since it is beyond the scope of my abilities and would have wasted time, will come back to it later on. 
+
+
 *   Background image for callout would not appear:
     * Changed background-image property to background
 
