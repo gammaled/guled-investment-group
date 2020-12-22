@@ -114,32 +114,6 @@ body {
             justify-content: center;
 }
 
-@media (max-width: 767px) {
-
-    .callout-container {
-        background-image: none;
-        -webkit-box-shadow: none;
-        box-shadow: none;
-        background-color: #246B94;
-    }
-    .section-background {
-        background-image: none;
-    }
-}
-
-@media (max-width: 480px) {
-
-    .callout-container {
-        background-image: none;
-        -webkit-box-shadow: none;
-        box-shadow: none;
-        background-color: #246B94;
-    }
-    .section-background {
-        background-image: none;
-    }
-}
-
 .callout {
     color: #F4F7F5;
 }
@@ -188,4 +162,32 @@ body {
 #footer {
     text-align: center;
     padding: 1.2rem 0 0.5rem 0;
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+    .callout-container {
+        background-image: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        background-color: #246B94;
+    }
+    .section-background {
+        background-image: none;
+    }
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+    .callout-container {
+        background-image: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        background-color: #246B94;
+    }
+    .section-background {
+        background-image: none;
+    }
 }
