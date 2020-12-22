@@ -138,6 +138,16 @@ View wireframes for each device here:
 ---
 I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css-validator/) and it came out **no errors found**.
 
+I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/) and I got the following **results**: 
+* Warning:
+
+    * "Who are we?" section lacks heading
+    * Contact form section lacks heading
+
+* Fixes:
+
+    * Changed all section header ```p``` tags to ```h2``` tags
+
 ### Easy To Follow Flow Of Information 
 **User Story: I want an informative and well-structured website so I will be properly informed without confusion.**
 
@@ -200,18 +210,6 @@ I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css
 * **Results**<br>The navigation links and scroll effects works across different platforms and works just as expected.  
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
-
-
-
-I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/) and I got the following **results**: 
-* Warning:
-
-    * "Who are we?" section lacks heading
-    * Contact form section lacks heading
-
-* Fixes:
-
-    * Changed all section header ```p``` tags to ```h2``` tags
     
 **Contact Form**
 
