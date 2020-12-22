@@ -38,7 +38,7 @@ body {
 }
 
 .section-background {
-    background: url("../images/invest-numbers.jpg") no-repeat bottom right;
+    background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
     -webkit-box-shadow: inset 0 0 0 100rem rgba(244, 247, 245, .92);
             box-shadow: inset 0 0 0 100rem rgba(244, 247, 245, .92);
     background-size: cover;
@@ -87,7 +87,7 @@ body {
 /* call-to-action */
 
 .callout-container {
-    background: url("../images/invest-numbers.jpg") no-repeat bottom right;
+    background: url("../images/invest-numbers.jpg") no-repeat bottom right fixed;
     -webkit-box-shadow: inset 0 0 0 100rem rgba(36, 107, 148, .55);
             box-shadow: inset 0 0 0 100rem rgba(36, 107, 148, .55);
     background-size: cover;
