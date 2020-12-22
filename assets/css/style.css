@@ -114,6 +114,16 @@ body {
             justify-content: center;
 }
 
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .callout-container {
+        background-image: none;
+    }
+    .section-background {
+        background-image: none;
+    }
+}
+
 .callout {
     color: #F4F7F5;
 }
