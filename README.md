@@ -212,36 +212,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 * Fixes:
 
     * Changed all section header ```p``` tags to ```h2``` tags
-
-I also tested the website by using [Lighthouse](https://developers.google.com/web/tools/lighthouse). **Performance**, **Accessibility**, **Best Practices** and **SEO** were tested then rated on a scale of 1-100. I tested both **mobile** and **desktop**:
-
-**Mobile**
-* **Performance** (62/100):
-    * **Issue**: Properly size image. 
-        * **Fix**: slightly reduced size of staff images.
-
-* **Accessibility** (97/100):
-    * **Contrast**: Background and foreground colours do not have a sufficient contrast ratio specifically "Learn More" button in callout. 
-        * **Fix**: changed colour of button to International Orange Engineering #C40B08.
-
-    * **Navigation**: Heading elements are not in a sequentially-descending order. 
-        * **Fix**: changed ```p``` tags of "what we offer" header to ```h2```.
-
-* **Best Practices** (100/100)
-
-* **SEO** (100/100)
-
-**Desktop**
-* **Performance** (70/100):
-    * **Issue**: Properly size image. 
-        * **Fix**: slightly reduced size of staff images.
-
-* **Accessibility** (100/100)
-   
-* **Best Practices** (100/100)
-
-* **SEO** (100/100)
-
+    
 **Contact Form**
 
 * I got the contact form from [Bootstrap](https://getbootstrap.com/) which is used to contact the **website owner** for more information. I customized and styled it to fit the colour scheme and design plans. The **user** enters their personal contact information in the **form field**.
