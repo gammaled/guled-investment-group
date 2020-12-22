@@ -239,12 +239,18 @@ There have been a few bugs encountered and I will list them below with solutions
 
 * **Fix**<br>Removed it and replaced it with an image background. 
 
-* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Since it is beyond the scope of my abilities and would have wasted time, will come back to it later on. 
+* **Verdict**<br>HTML and CSS code has been validated with no errors. Since it is beyond the scope of my abilities and would have wasted time, will come back to it later on. 
 
+### Background image would not appear
+* **Bug**<br>Background image for callout would not appear and background is blank with only the callout text.
 
-*   Background image for callout would not appear:
-    * Changed background-image property to background
+* **Fix**<br>Changed ```background-image``` property to ```background```
 
+* **Verdict**<br>HTML and CSS code has been validated with no errors. 
+
+### Unresponsive background image
+* **Bug**<br>Background image in callout section does not adjust in the expected responsive way on smaller devices. It maintains same dimensions, appears zoomed in and the scroll parallax effect does not work. Image is fixed in its position.
+* **Fix**<br>
 **From validation/testing**
 * Section headers had ```p``` tags instead of ```h2``` tags
     * Changed their tags to ```h2``` tags 
