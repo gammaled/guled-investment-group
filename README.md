@@ -138,7 +138,7 @@ View wireframes for each device here:
 ---
 I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css-validator/) and it came out **no errors found**.
 
-### Testing
+### Easy To Follow Flow Of Information 
 **User Story: I want an informative and well-structured website so I will be properly informed without confusion.**
 
 * **Plan**<br>When the user opens the page, the information should flow in an easily understood way to follow and is structured in a way to make the information easy to read.
@@ -150,6 +150,7 @@ I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
 
+### Easy To Understand
 **User Story: As a user, I want to understand what an investment fund in a language I can understand without too much financial jargon.**
 
 * **Plan**<br>The user should easily understand the investment concepts and services offered despite not being investment or finance professionals. 
@@ -160,18 +161,21 @@ I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
 
+### Easy To Contact
 **User Story: As a user, I want to be able to easily contact the customer service so I can ask questions for clarification and understand better.**
 
 * **Plan**<br>The user should be able to easily be able to get in touch with the site owner when they require more information or assistance with anything. 
 
 * **Implementation**<br>A whole section is to be made for a contact form that is easy to find and accessible. 
 
-* **Test**<br>CSS and HTML code are to be validated. The link that scrolls to contact form section is manually tested by clicking and accessibility is tested with Lighthouse. CSS and HTML validation has shown no errors and manual testing of link to contact section works. Accessibility has been rated 100/100 after testing with Lighthouse.
+* **Test**<br>CSS and HTML code are to be validated. The link that scrolls to contact form section is manually tested by clicking and accessibility is tested with Lighthouse. CSS and HTML validation has shown no errors and manual testing of link to contact section works. Accessibility was been rated 97/100 after testing with Lighthouse due to lack of contrast between the 'learn more' and submit buttons, and Changed colour of buttons from Sapphire Blue (#246B94) to International Orange Engineering (#C40B08). 
 
 * **Results**<br>Contact form is easily accessed by clicking on the link or scrolling to it manually and accessible.
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
 
+
+### Show Credibility of Managers
 **User Story: As a user, I want to be reassured that the company and its investment managers are well qualified and credible in investment management.**
 
 * **Plan**<br>Create section specifically to show and describe the staff and investment managers of the fund. 
@@ -184,6 +188,7 @@ I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
 
+### Easy To Navigate
 **User Story: As a user, I want an easily navigable website that is straight to the point and leads me directly to the relevant information, avoiding unnecessarily tedious design obstacles.**
 
 * **Plan**<br>Create a single scroll site where the navigation links scrolls to the relevant sections of the page. 
