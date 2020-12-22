@@ -249,12 +249,25 @@ There have been a few bugs encountered and I will list them below with solutions
 * **Verdict**<br>HTML and CSS code has been validated with no errors. 
 
 ### Unresponsive background image
-* **Bug**<br>Background image in callout section does not adjust in the expected responsive way on smaller devices. It maintains same dimensions, appears zoomed in and the scroll parallax effect does not work. Image is fixed in its position.
-* **Fix**<br>
-**From validation/testing**
-* Section headers had ```p``` tags instead of ```h2``` tags
-    * Changed their tags to ```h2``` tags 
+* **Bug**<br>Background image in callout section does not adjust in the expected responsive way on iphones and ipads. It maintains same dimensions, appears zoomed in and the scroll parallax effect does not work. Image is fixed in its position.
+
+* **Fix**<br>Removed background image completely for small and medium sized screens. Styled simply with a background colour of Sapphire Blue (#246B94).
+
+* **Verdict**<br>HTML and CSS code has been validated with no errors. Site kept simple to improved responsiveness and improved performances.
+
+### Callout text is pushed under navbar
+* **Bug**<br>The main header in callout text is overlapped by the navbar at the top of smaller screen in portrait mode. 
+
+* **Fix**<br>Hidden subheading on smaller screens with the class ```.d-none``` and ```.d-sm-block```. Callout text has been positioned in the way as planned.
+
+* **Verdict**<br>HTML and CSS code has been validated with no errors. 
+
+### HTML validation warning: Lack of header tags in callout 
+* **Bug**<br>Section headers had ```p``` tags instead of ```h2``` tags. 
+
+* **Fix**<br>Changed their tags to ```h2``` tags
     
+* **Verdict**<br>Checked HTML again on validator and no error has been come up. 
 ## Deployment 
 ---
 This project was deployed via GitHub by executing the following steps. After writing the code, committing and pushing it to GitHub:
@@ -322,4 +335,4 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 ### Special Thanks 
 * My mentor and The Grandmaster Yoda himself, [Simen Daehlin](https://github.com/Eventyret), for guiding me along the way and helping me find my way when I got lost. For being understanding and patient with me. 
 * [byIlsa](https://github.com/byIlsa) for her awesome, well-structured README that helped me to write mine.
-* The Code Institute tutors and Slack community for their assistance and guidance. 
+* The Code Institute tutors and Slack community for their assistance and guidance.
