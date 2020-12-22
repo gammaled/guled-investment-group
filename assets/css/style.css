@@ -114,6 +114,19 @@ body {
             justify-content: center;
 }
 
+@media (max-width: 767px) {
+
+    .callout-container {
+        background-image: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        background-color: #246B94;
+    }
+    .section-background {
+        background-image: none;
+    }
+}
+
 @media (max-width: 480px) {
 
     .callout-container {
