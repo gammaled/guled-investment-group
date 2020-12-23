@@ -39,7 +39,7 @@ body {
 
 .section-background {
     background: url("../images/invest-numbers.jpg") no-repeat center center;
-    border-top: #F4F7F5;
+    
 
     -webkit-box-shadow: inset 0 0 0 100rem rgba(244, 247, 245, .92);
     box-shadow: inset 0 0 0 100rem rgba(244, 247, 245, .92);
