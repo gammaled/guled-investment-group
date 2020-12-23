@@ -33,7 +33,7 @@ body {
 }
 
 .section-container {
-    padding: 20rem 0 30rem;
+    padding: 7rem 0 15rem;
     
 }
 
@@ -90,7 +90,8 @@ body {
 
 .navbar-toggler-icon {
   color: #575A5E;
-  font-size: 1.3rem;
+  border: none;
+  font-size: 1.2rem;
 }
 /* call-to-action */
 
