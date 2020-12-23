@@ -179,8 +179,14 @@ body {
 }
 
 
-@media (min-width: 200px) and (max-width: 350px) {
+@media (max-width: 350px) {
     .navbar-toggler-icon {
         width: 0.5rem;
+    }
+}
+
+@media (max-width: 540px) {
+    .section-background {
+        background: none;
     }
 }
