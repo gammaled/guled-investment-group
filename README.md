@@ -251,9 +251,9 @@ There have been a few bugs encountered and I will list them below with solutions
 ### Unresponsive background image
 * **Bug**<br>Background image in callout section does not adjust in the expected responsive way on iphones and ipads. It maintains same dimensions, appears zoomed in and the scroll parallax effect does not work. Image is fixed in its position.
 
-* **Fix**<br>Removed background image completely for small and medium sized screens. Styled simply with a background colour of Sapphire Blue (#246B94).
+* **Fix**<br>Completely removed scroll parallax effect for the sake of simplicity. 
 
-* **Verdict**<br>HTML and CSS code has been validated with no errors. Site kept simple to improved responsiveness and improved performances.
+* **Verdict**<br>HTML and CSS code has been validated with no errors. Site kept simple to improved responsiveness and improved performance.
 
 ### Callout text is pushed under navbar
 * **Bug**<br>The main header in callout text is overlapped by the navbar at the top of smaller screen in portrait mode. 
