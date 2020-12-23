@@ -164,7 +164,7 @@ body {
     padding: 1.2rem 0 0.5rem 0;
 }
 
-/* Landscape phones and portrait tablets */
+/* Landscape mode phones and portrait tablets */
 @media (max-width: 767px) {
 
     .callout-container {
@@ -178,7 +178,7 @@ body {
     }
 }
 
-/* Portrait phones and smaller */
+/* Portrait mode phones and smaller */
 @media (max-width: 480px) {
 
     .callout-container {
