@@ -230,9 +230,9 @@ There have been a few bugs encountered and I will list them below with solutions
 ### Navbar links pushed upwards during hover 
 * **Bug**<br>Hovering over any navbar links shifts all of them upwards.
 
-* **Fix**<br>Still trying to figure it out and fix it.
+* **Fix**<br>Created a transparent border under each link in  ```.nav-link``` when there is no hover.
 
-* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Will return to it later. 
+* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. 
 
 ### Unresponsive video background for callout
 * **Bug**<br>Video background would not adjusted to smaller screens and would only occupy a small area of the screen rather than adjust too fit into the callout section.
