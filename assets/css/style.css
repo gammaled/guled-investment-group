@@ -93,6 +93,7 @@ body {
   color: #575A5E;
   border: none;
   font-size: 2rem;
+  width: 3rem;
 }
 /* call-to-action */
 
@@ -178,7 +179,7 @@ body {
 }
 
 
-@media (min-width: 300px) and (max-width: 400px) {
+@media (min-width: 200px) and (max-width: 350px) {
     .navbar-toggler-icon {
         width: 0.5rem;
     }
