@@ -39,6 +39,7 @@ body {
 
 .section-background {
     background: url("../images/invest-numbers.jpg") no-repeat center center;
+    border-top: #F4F7F5;
 
     -webkit-box-shadow: inset 0 0 0 100rem rgba(244, 247, 245, .92);
     box-shadow: inset 0 0 0 100rem rgba(244, 247, 245, .92);
@@ -91,7 +92,6 @@ body {
 .navbar-toggler-icon {
   color: #575A5E;
   border: none;
-  width: 0.5rem;
   font-size: 2rem;
 }
 /* call-to-action */
@@ -158,7 +158,7 @@ body {
 .staff-image {
     width: 20rem; 
     height: auto; 
-    padding: .8rem; 
+    padding: 0.8rem; 
 
     -webkit-box-shadow:  inset 0 0 0.3rem 0.2rem rgba(0, 0, 0, .3); 
     box-shadow:  inset 0 0 0.3rem 0.2rem rgba(0, 0, 0, .3); 
@@ -175,4 +175,11 @@ body {
 #footer {
     text-align: center;
     padding: 1.2rem 0 0.5rem 0;
+}
+
+
+@media (min-width: 300px) and (max-width: 400px) {
+    .navbar-toggler-icon {
+        width: 0.5rem;
+    }
 }
