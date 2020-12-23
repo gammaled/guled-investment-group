@@ -91,7 +91,8 @@ body {
 .navbar-toggler-icon {
   color: #575A5E;
   border: none;
-  font-size: 1.2rem;
+  width: 0.5rem;
+  font-size: 2rem;
 }
 /* call-to-action */
 
