@@ -310,6 +310,7 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Nav link hover effect](https://stackoverflow.com/a/9586632)
 
+* [nav link upward shift bug fix](https://stackoverflow.com/questions/40849599/unexpected-navigation-bar-moving-on-hover)
 
 ### Investment Information Sources 
 
