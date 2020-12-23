@@ -267,7 +267,12 @@ There have been a few bugs encountered and I will list them below with solutions
 
 * **Fix**<br>Changed their tags to ```h2``` tags
     
-* **Verdict**<br>Checked HTML again on validator and no error has been come up. 
+* **Verdict**<br>Checked HTML again on validator and no error has been come up.
+
+### Menu toggler icon shifted down in smaller devices
+* **Bug**<br>The menu toggler icon is positioned below navbar brand resulting in navbar more height of the screen and callout section.
+
+* **Fix**<br>
 ## Deployment 
 ---
 This project was deployed via GitHub by executing the following steps. After writing the code, committing and pushing it to GitHub:
