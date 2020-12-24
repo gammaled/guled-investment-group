@@ -193,6 +193,7 @@ body {
     border: 0.2rem solid #C40B08;
     background-color: transparent;
 }
+
 /* Footer */
 
 #footer {
@@ -204,6 +205,11 @@ body {
 @media (max-width: 350px) {
     .navbar-toggler {
         margin: 0 auto;
+    }
+
+    #brand-name {
+        font-size: 2.3rem;
+        text-align: center;
     }
 }
 
