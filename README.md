@@ -177,7 +177,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 
 * **Implementation**<br>A whole section is to be made for a contact form that is easy to find and accessible. 
 
-* **Test**<br>The link that scrolls to contact form section is manually tested by clicking and accessibility is tested with Lighthouse. CSS and HTML validation has shown no errors and manual testing of link to contact section works. Accessibility was been rated 97/100 after testing with Lighthouse due to lack of contrast between the 'learn more' and submit buttons, and Changed colour of buttons from Sapphire Blue (#246B94) to Cultured (#F4F7F5). 
+* **Test**<br>The link that scrolls to contact form section is manually tested by clicking and accessibility is tested with Lighthouse. CSS and HTML validation has shown no errors and manual testing of link to contact section works. Accessibility was been rated 97/100 after testing with Lighthouse due to lack of contrast between the 'learn more' and submit buttons, and changed colour of buttons from Sapphire Blue (#246B94) to Cultured (#F4F7F5). 
 
 * **Results**<br>Contact form is easily accessed by clicking on the link or scrolling to it manually and accessible.
 
@@ -193,7 +193,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 
 * **Test**<br>CSS and HTML validator was used as well as Lighthouse tests. 
 
-* **Results**<br>CSS and HTML test results showed no error althought Lighthouse test results showed the images did take too long to load. Their sizes were slightly reduce which has improved performance. 
+* **Results**<br>CSS and HTML test results showed no error although Lighthouse test results showed the images did take too long to load. Their sizes were slightly reduce which has improved performance. 
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
 
@@ -213,7 +213,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 **Contact Form**
 
 * I got the contact form from [Bootstrap](https://getbootstrap.com/) which is used to contact the **website owner** for more information. I customized and styled it to fit the colour scheme and design plans. The **user** enters their personal contact information in the **form field**.
-* For now, there will be no feedback since it will not be possible to send a form.
+* For now, there will be no feedback since it will not be possible to send a form. The site for educational purposes only.
     
 ## Bugs 
 ---
@@ -227,14 +227,14 @@ There have been a few bugs encountered and I will list them below with solutions
 * **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Since it was not too important for the design, I will returned to it later. 
 
 ### Navbar links pushed upwards during hover 
-* **Bug**<br>Hovering over any navbar links shifts all of them upwards.
+* **Bug**<br>Hover event on any navbar links shifts all of them upwards.
 
 * **Fix**<br>Created a transparent border under each link in  ```.nav-link``` when there is no hover.
 
 * **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. 
 
 ### Unresponsive video background for callout
-* **Bug**<br>Video background would not adjusted to smaller screens and would only occupy a small area of the screen rather than adjust too fit into the callout section.
+* **Bug**<br>Video background would not adjusted to smaller screens and would only occupy a small area of the screen rather than adjust to fit into the callout section.
 
 * **Fix**<br>Removed it and replaced it with an image background. 
 
@@ -250,7 +250,7 @@ There have been a few bugs encountered and I will list them below with solutions
 ### Unresponsive background image
 * **Bug**<br>Background image in callout section does not adjust in the expected responsive way on iphones and ipads. It maintains same dimensions, appears zoomed in and the scroll parallax effect does not work. Image is fixed in its position.
 
-* **Fix**<br>Completely removed scroll parallax effect for the sake of simplicity. 
+* **Fix**<br>Completely removed scroll parallax effect for the sake of simplicity by removing ```background:fixed;``` from ```.section-background``` and ```.callout-container```.
 
 * **Verdict**<br>HTML and CSS code has been validated with no errors. Site kept simple to improved responsiveness and improved performance.
 
@@ -273,7 +273,7 @@ There have been a few bugs encountered and I will list them below with solutions
 
 * **Fix**<br>Centered icon and navbar brand, while reducing its size, for screens with width smaller than 350px.
 
-* **Verdict**<br>It worked out well to leave icon positioned underneath brand with just a little adjustment. Checked HTML again on validator and no error has been come up. Works as planned.
+* **Verdict**<br>It worked out well to leave icon positioned underneath brand with just a little adjustment. Checked HTML and CSS again on validator and no error has been come up. Works as planned.
 
 ## Deployment 
 ---
