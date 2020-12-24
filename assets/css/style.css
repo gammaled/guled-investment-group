@@ -180,6 +180,13 @@ body {
     font-size: 1.5rem;
 }
 
+#contact-button {
+    color: #F4F7F5;
+    border: 0.2rem solid #C40B08;
+    background-color: #C40B08;
+}
+
+
 #contact-button:hover {
     color: #C40B08;
     border: 0.2rem solid #C40B08;
