@@ -114,7 +114,6 @@ View wireframes for each device here:
 **Tools & Libraries**
 
 * [Bootstrap](https://getbootstrap.com/)
-* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Google Fonts](https://fonts.google.com/)
 * [Gitpod](https://gitpod.io/workspaces/)
 * [JQuery](https://jquery.com/) 
