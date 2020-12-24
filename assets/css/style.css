@@ -187,7 +187,6 @@ body {
     background-color: #C40B08;
 }
 
-
 #contact-button:hover {
     color: #C40B08;
     font-size: 1.5rem;
@@ -208,7 +207,7 @@ body {
     }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 740px) {
     .section-background {
         background: none;
     }
