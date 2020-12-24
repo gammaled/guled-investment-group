@@ -153,18 +153,18 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 * **Plan**<br>When the user opens the page, the information should flow in an easily understood way to follow and is structured in a way to make the information easy to read.
 * **Implementation**<br>Present the information in sections clear from each other with space and, within each section, information is presented in separate columns. Also, using colours that contrast well with each other. 
 
-* **Test**<br>Contrast is tested as one of the audits in Lighthouse. Background and foreground colours do not have a sufficient contrast ratio specifically "Learn More" button in callout. Changed colour of button to International Orange Engineering #C40B08 for better contrast and, in addition, increased font size. 
+* **Test**<br>Contrast is tested as one of the audits in Lighthouse. Background and foreground colours did not have a sufficient contrast ratio specifically "Learn More" button in callout. Changed colour of button to International Orange Engineering #C40B08 for better contrast and, in addition, increased font size. 
 
 * **Results**<br>Contrast is much better and button is more noticeable. 
 
 * **Verdict**<br>The test has passed all the criteria and works like planned.
 
 ### Easy To Understand
-**User Story: As a user, I want to understand what an investment fund in a language I can understand without too much financial jargon.**
+**User Story: As a user, I want to understand what an investment fund is in a language I can understand without too much financial jargon.**
 
 * **Plan**<br>The user should easily understand the investment concepts and services offered despite not being investment or finance professionals. 
 * **Implementation**<br>Avoid as much financial jargon as possible, where necessary, highlight and ensure they are well-defined. 
-* **Test**<br>Ask three of my friends, who are not investing professionals at all, to review the site and it information provided. They have all said they understood the concepts and services offered on the site.
+* **Test**<br>Ask three of my friends, who are not investing professionals at all, to review the site and information provided. They have all said they understood the concepts and services offered on the site.
 
 * **Results**<br>Information is easily understood as planned, financial terms have been well-defined and properly presented. 
 
@@ -177,7 +177,7 @@ I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/
 
 * **Implementation**<br>A whole section is to be made for a contact form that is easy to find and accessible. 
 
-* **Test**<br>CSS and HTML code are to be validated. The link that scrolls to contact form section is manually tested by clicking and accessibility is tested with Lighthouse. CSS and HTML validation has shown no errors and manual testing of link to contact section works. Accessibility was been rated 97/100 after testing with Lighthouse due to lack of contrast between the 'learn more' and submit buttons, and Changed colour of buttons from Sapphire Blue (#246B94) to International Orange Engineering (#C40B08). 
+* **Test**<br>The link that scrolls to contact form section is manually tested by clicking and accessibility is tested with Lighthouse. CSS and HTML validation has shown no errors and manual testing of link to contact section works. Accessibility was been rated 97/100 after testing with Lighthouse due to lack of contrast between the 'learn more' and submit buttons, and Changed colour of buttons from Sapphire Blue (#246B94) to Cultured (#F4F7F5). 
 
 * **Results**<br>Contact form is easily accessed by clicking on the link or scrolling to it manually and accessible.
 
