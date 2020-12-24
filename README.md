@@ -272,9 +272,9 @@ There have been a few bugs encountered and I will list them below with solutions
 ### Menu toggler icon shifted down in smaller devices
 * **Bug**<br>The menu toggler icon is positioned below navbar brand resulting in navbar more height of the screen and callout section.
 
-* **Fix**<br>Reduced width of the icon on smaller screens to get it to fit between navbar brand and edge of the screen. 
+* **Fix**<br>Centered icon and navbar brand, while reducing its size, for screens with width smaller than 350px.
 
-* **Verdict**<br>Checked HTML again on validator and no error has been come up. Works as planned.
+* **Verdict**<br>It worked out well to leave icon positioned underneath brand with just a little adjustment. Checked HTML again on validator and no error has been come up. Works as planned.
 
 ## Deployment 
 ---
