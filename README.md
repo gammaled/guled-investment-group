@@ -345,3 +345,5 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 * The Code Institute tutors and Slack community for their assistance and guidance.
 * [ByIlsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine) and [Anouk Smet](https://github.com/AnoukSmet/Brain-Quizzers) for their awesome, well-structured READMEs that helped me to write mine.
 * The Code Institute tutors and Slack community for their assistance and guidance.
+
+**For educational purposes only.**
