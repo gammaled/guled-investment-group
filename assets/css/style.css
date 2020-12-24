@@ -50,17 +50,9 @@ body {
     background-size: cover;
 }
 
-#learn-more {
-    background-color: #F4F7F5;
-    border: 0.2rem solid #F4F7F5;
-    font-size: 1.5rem;
-    margin-top: 1rem;
-}
-
-#learn-more:hover {
-    color: #F4F7F5;
-    border: 0.2rem solid #F4F7F5;
-    background-color: transparent;
+.emphasis {
+    color: #C40B08;
+    font-weight: 500;
 }
 
 /* block divider */
@@ -140,6 +132,19 @@ body {
     color: #F4F7F5;
 }
 
+#learn-more {
+    background-color: #F4F7F5;
+    border: 0.2rem solid #F4F7F5;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+#learn-more:hover {
+    color: #F4F7F5;
+    border: 0.2rem solid #F4F7F5;
+    background-color: transparent;
+}
+
 #fineprint {
     font-style: italic;
     font-size: 1.2rem;
@@ -156,11 +161,6 @@ body {
 
 .staff-description {
     padding: 3rem 0;
-}
-
-.emphasis {
-    color: #C40B08;
-    font-weight: 500;
 }
 
 /* About us */
@@ -206,7 +206,7 @@ body {
     .navbar-toggler {
         margin: 0 auto;
     }
-    
+
     .navbar-brand {
         margin: 0 auto;
     }
