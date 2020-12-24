@@ -135,7 +135,7 @@ View wireframes for each device here:
 
 ## Testing 
 ---
-I started by test the CSS code with the [CSS Validator](http://jigsaw.w3.org/css-validator/) and it came out **no errors found**. I also prefixed CSS code using the [Autoprefixer](https://autoprefixer.github.io).
+I've tested the CSS code by direct input with the [CSS Validator](http://jigsaw.w3.org/css-validator/) and it came out **no errors found**. Everytime CSS validator was used, it was by direct input of the code. I also prefixed CSS code using the [Autoprefixer](https://autoprefixer.github.io). 
 
 I proceeded to test the HTML with the [HTML Validator](https://validator.w3.org/) and I got the following **results**: 
 * Warning:
