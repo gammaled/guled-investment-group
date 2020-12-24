@@ -182,6 +182,7 @@ body {
 
 #contact-button {
     color: #F4F7F5;
+    font-size: 1.5rem;
     border: 0.2rem solid #C40B08;
     background-color: #C40B08;
 }
@@ -189,6 +190,7 @@ body {
 
 #contact-button:hover {
     color: #C40B08;
+    font-size: 1.5rem;
     border: 0.2rem solid #C40B08;
     background-color: transparent;
 }
