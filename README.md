@@ -100,7 +100,7 @@ View wireframes for each device here:
   <summary><strong>What didn't make the cut and why:</strong></summary>
   My <strong>wireframes</strong> and the website in each display format have ended up looking different to each other. This is my first project in UI/UX and I have noticed that what I planned to do did not work in reality in terms of UX/UI. My wireframes looked amazing but it did not translate so well on the different device screen. 
 
-  This is my first project in UI/UX, as a result there were a few features that ended up taking too much time and became too difficult for me to do. 
+  This is my first project in UI/UX, as a result there were a few features that ended up taking too much time and became too difficult for me to do. I shall return to them later on.
 </details>
 
 ## Technologies Used 
