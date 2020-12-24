@@ -50,12 +50,18 @@ body {
     background-size: cover;
 }
 
-.btn {
-    color: #F4F7F5;
-    background-color: #C40B08;
-    border: #C40B08;
+#learn-more {
+    color: none;
+    background-color: #F4F7F5;
+    border: 0.2rem solid #F4F7F5;
     font-size: 1.5rem;
     margin-top: 1rem;
+}
+
+#learn-more:hover {
+    color: #F4F7F5;
+    border: 0.2rem solid #F4F7F5;
+    background-color: transparent;
 }
 
 /* block divider */
@@ -81,7 +87,6 @@ body {
 
 .navbar-brand:hover {
     color: #246B94;
-    
 }
 
 .nav-link {
@@ -176,6 +181,11 @@ body {
     font-size: 1.5rem;
 }
 
+#contact-button:hover {
+    color: #C40B08;
+    border: 0.2rem solid #C40B08;
+    background-color: transparent;
+}
 /* Footer */
 
 #footer {
