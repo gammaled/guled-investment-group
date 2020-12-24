@@ -343,5 +343,5 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 ### Special Thanks 
 * My mentor and The Grandmaster Yoda himself, [Simen Daehlin](https://github.com/Eventyret), for guiding me along the way and helping me find my way when I got lost. For being understanding and patient with me. 
 * The Code Institute tutors and Slack community for their assistance and guidance.
-* [byIlsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine) and [Anouk Smet](https://github.com/AnoukSmet/Brain-Quizzers) their awesome, well-structured READMEs that helped me to write mine.
+* [ByIlsa](https://github.com/byIlsa/Aloy-from-outcast-to-heroine) and [Anouk Smet](https://github.com/AnoukSmet/Brain-Quizzers) and their awesome, well-structured READMEs that helped me to write mine.
 * The Code Institute tutors and Slack community for their assistance and guidance.
