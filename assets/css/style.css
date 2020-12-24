@@ -197,7 +197,7 @@ body {
 }
 
 
-@media (max-width: 350px) {
+@media (max-width: 35rem) {
     .navbar-toggler {
         margin: 0 auto;
     }
@@ -211,7 +211,7 @@ body {
     }
 }
 
-@media (max-width: 740px) {
+@media (max-width: 74rem) {
     .section-background {
         background: none;
     }
