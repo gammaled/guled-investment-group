@@ -29,7 +29,7 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 
 ### User Goals 
 
-* **Learn and Understand** what an investment fund is and how it works.
+* **Learn and understand** what an investment fund is and how it works.
 * **Find out** whether investing into an investment fund is viable and beneficial to user. 
 * **Contact the company** for **more information** and request to be contacted, by providing contact details, to **learn more** about:
     * How **investment funds** work. 
@@ -55,8 +55,8 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 **Requirements**
 * **Navigate** the website using the navbar that scrolls to the requested section.
 * The **website** should be a **one-page** website to keep users engaged. 
-* A **full functioning contact form** that allows user to input **contact details and enquiries**.
-* A **fully functioning learn more** button in the header of the website.
+* A **contact form** that allows user to input **contact details and enquiries**.
+* A **learn more** button in the header of the website.
 
 **Expectations**
 * **Visually appealing website** kept **simple and easy to use** and **without** any complicated features.
@@ -68,7 +68,7 @@ The **goal** for this project is to **introduce** to **potential investors** an 
 **Fonts**
 
 I tried to look for very simple fonts that were very easy to read and looked professional. 
-I chose [Roboto](https://fonts.google.com/specimen/Roboto) all headings and text. 
+I chose [Roboto](https://fonts.google.com/specimen/Roboto) for all headings and text. 
 
 **Colours**
 
@@ -77,8 +77,8 @@ to find the colour scheme that suited best for the project.
 
 The **purpose** for each colour:
  
-* **Davys Grey** (#575A5E): for navbar link font, body font and line under headings; 
-* **International Orange Engineering** (#C40B08): for contact submit button, learn more button and some body text; 
+* **Davys Grey** (#575A5E): for navbar link font and body font; 
+* **International Orange Engineering** (#C40B08): for contact submit button, block dividers and emphasising key words; 
 * **Sapphire Blue** (#246B94): for logo and headers;
 * **Cultured** (#F4F7F5): for most body backgrounds, and callout font colour;
 
