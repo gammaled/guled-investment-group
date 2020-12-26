@@ -275,6 +275,12 @@ There have been a few bugs encountered and I will list them below with solutions
 
 * **Verdict**<br>It worked out well to leave icon positioned underneath brand with just a little adjustment. Checked HTML and CSS again on validator and no error has been come up. Works as planned.
 
+### Excessive space on sides of navbar on Surface Duo 
+* **Bug**<br>There is a lot of space between navbar elements (navbar brand and menu toggler) and their respective sides of the Microsoft Surface Duo screen. 
+
+* **Fix**<br>I'll leave it be for now since it is not too significant of a bug and I'll get back to it later.
+
+* **Verdict**<br>It is slightly different to what I initially planned for such a device but it is not too important of an issue to address now. Checked HTML and CSS again on validator and no error has been come up. Works as planned.
 ## Deployment 
 ---
 This project was deployed via GitHub by executing the following steps. After writing the code, committing and pushing it to GitHub:
