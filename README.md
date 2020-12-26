@@ -327,6 +327,8 @@ Used Code Institute bootstrap basecamp code source as a template for the project
 
 * [Risk Arbitrage](https://www.investopedia.com/terms/r/riskarbitrage.asp)
 
+* [Legal fineprint on financial risk in callout ](https://www.virtuecapitalmanagement.com/disclosure.html)
+
 ### Image Sources 
 
 * [Investment Hero Image](https://www.pexels.com/photo/airport-bank-board-business-534216/)
