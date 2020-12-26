@@ -297,8 +297,6 @@ Use the **"git clone" command** and paste the url copied in the second step.
 ---
 ### Code References 
 
-Used Code Institute bootstrap basecamp code source as a template for the project.
-
 * [Navbar](https://stackoverflow.com/questions/57980013/adding-space-between-navbar-logo-and-first-nav-link)
 
 * [Jumbotron & background video [1]](https://stackoverflow.com/questions/34624496/bootstrap-video-jumbotron)
