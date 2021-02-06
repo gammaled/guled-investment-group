@@ -222,9 +222,9 @@ There have been a few bugs encountered and I will list them below with solutions
 ### Navbar links not positioned on right side 
 * **Bug**<br>The nav links would not position on the right hand side of the navbar as planned in the wireframes.
 
-* **Fix**<br>I left it for later to figure out.
+* **Fix**<br>Inserted ```ml-auto``` class in the navbar ```ul``` tag.
 
-* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. Since it was not too important for the design, I will returned to it later. 
+* **Verdict**<br>The links work as planned and, HTML and CSS code has been validated with no errors. 
 
 ### Navbar links pushed upwards during hover 
 * **Bug**<br>Hover event on any navbar links shifts all of them upwards.
